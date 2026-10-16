@@ -11,7 +11,7 @@ import EmbedPlayer from './embed-player';
 import type { EmbedEpisode } from '@/lib/embed-player';
 
 type Profile = { id: string; name: string; avatar: string; kids: number };
-type Entry = { profileId: string; mediaKey: string; kind: string; position: number; duration: number; updatedAt: number };
+type Entry = { profileId: string; mediaKey: string; kind: string; position: number; duration: number; updatedAt: number;source?:'embed';episode?:EmbedEpisode };
 type State = { profiles: Profile[]; library: Entry[]; titles?: Title[] };
 type InstallEvent = Event & { prompt: () => Promise<void>; userChoice: Promise<{ outcome: string }> };
 type View = 'home' | 'movies' | 'series' | 'kids' | 'list' | 'search';
@@ -79,7 +79,6 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
   const [selected,setSelected]=useState<Title|null>(null);
   const [player,setPlayer]=useState<{item:Title;trailer:boolean}|null>(null);
   const [embed,setEmbed]=useState<{item:Title;episode?:EmbedEpisode}|null>(null);
-  const openEmbed=useCallback((item:Title,episode?:EmbedEpisode)=>setEmbed({item,episode}),[]);
   const closeEmbed=useCallback(()=>setEmbed(null),[]);
   const [dialog,setDialog]=useState<'profiles'|'account'|'install'|'news'|'about'|null>(null);
   const [query,setQuery]=useState('');
@@ -150,8 +149,9 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
   };
   const toggleList=async(item:Title)=>{
     if(pending)return;setPending(true);const exists=saved.has(mediaKey(item));
-    if(await action({action:exists?'list.remove':'list.add',mediaKey:mediaKey(item)}))notify(exists?'Título removido da Minha Lista.':'Adicionado à sua lista. Boa escolha.');setPending(false);
+    if(await action({action:exists?'list.remove':'list.add',mediaKey:mediaKey(item),title:item}))notify(exists?'Título removido da Minha Lista.':'Adicionado à sua lista. Boa escolha.');setPending(false);
   };
+  const openEmbed=(item:Title,episode?:EmbedEpisode)=>{setEmbed({item,episode});if(user)void action({action:'history.open',mediaKey:mediaKey(item),title:item,episode});};
   const go=(next:View)=>{setView(next);setGenre('all');setDialog(null);window.scrollTo({top:0,behavior:'smooth'});};
   const closeDialog=useCallback(()=>{setDialog(null);setProfileForm(null);setFormError('');setConfirmDelete(false);},[]);
   const closeDetails=useCallback(()=>setSelected(null),[]);
@@ -183,7 +183,7 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
     if(await action({action:profileForm.id?'profile.update':'profile.create',profileId:profileForm.id||profile?.id,...profileForm}))setProfileForm(null);
     setPending(false);
   };
-  const history=entries.filter(entry=>entry.kind==='history'&&byKey.has(entry.mediaKey));
+  const history=entries.filter(entry=>entry.kind==='history'&&byKey.has(entry.mediaKey)).sort((a,b)=>b.updatedAt-a.updatedAt);
 
   return <div className={`cinema ${tvMode?'tv-mode':''}`}>
     <a className="skip-link" href="#main">Pular para o conteúdo</a>
@@ -205,7 +205,7 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
         <div className="home-content">
           <div className="discovery-bar"><span><Sparkles size={15}/> A próxima grande história está aqui.</span><button onClick={()=>go('movies')}>Explore o catálogo <ArrowUpRight size={15}/></button></div>
           {stateError&&<div className="state-error" role="status">{stateError}<button onClick={()=>void refresh()}>Tentar novamente</button></div>}
-          {history.length>0&&<Rail title="Continue de onde parou" subtitle={`SÓ SEU, ${profile?.name||''}`}>{history.map(entry=>{const item=byKey.get(entry.mediaKey)!;return <article className="continue-card" key={entry.mediaKey}><button className="cover-button" onClick={()=>play(item)} aria-label={`Continuar ${item.title} em ${clock(entry.position)}`}><Cover item={item} landscape/><span className="card-play always"><Play fill="currentColor" size={20}/></span><span className="progress-track"><i style={{width:`${Math.min(100,entry.position/entry.duration*100)}%`}}/></span></button><div className="continue-copy"><h3>{item.title}</h3><span>{clock(entry.position)} de {clock(entry.duration)}</span><button className="icon-button" aria-label={`Remover ${item.title} do histórico`} onClick={()=>void action({action:'history.remove',mediaKey:entry.mediaKey})}><X size={15}/></button></div></article>;})}</Rail>}
+          {history.length>0&&<Rail title="Continue de onde parou" subtitle={`SÓ SEU, ${profile?.name||''}`}>{history.map(entry=>{const item=byKey.get(entry.mediaKey)!;return <article className="continue-card" key={entry.mediaKey}><button className="cover-button" onClick={()=>entry.source==='embed'?openEmbed(item,entry.episode):play(item)} aria-label={`Continuar ${item.title}`}><Cover item={item} landscape/><span className="card-play always"><Play fill="currentColor" size={20}/></span>{entry.duration>0&&<span className="progress-track"><i style={{width:`${Math.min(100,entry.position/entry.duration*100)}%`}}/></span>}</button><div className="continue-copy"><h3>{item.title}</h3><span>{entry.source==='embed'?(entry.episode?`Retomar T${entry.episode.season} · E${entry.episode.episode}`:'Abrir novamente'):`${clock(entry.position)} de ${clock(entry.duration)}`}</span><button className="icon-button" aria-label={`Remover ${item.title} do histórico`} onClick={()=>void action({action:'history.remove',mediaKey:entry.mediaKey})}><X size={15}/></button></div></article>;})}</Rail>}
           <Rail title="Uma boa história não espera" subtitle="SEU PRÓXIMO FAVORITO">{available.slice(0,12).map(item=>card(item))}</Rail>
           {trending.some(i=>!profile?.kids||family(i))&&<Rail title="Em alta nesta semana" subtitle="DIRETO DO TMDB">{trending.filter(i=>!profile?.kids||family(i)).map(item=>card(item))}</Rail>}
           <Rail title="Os mais bem avaliados" subtitle="10 HISTÓRIAS IMPERDÍVEIS" ranked>{[...available].sort((a,b)=>b.rating-a.rating).slice(0,10).map((item,index)=>card(item,index+1))}</Rail>

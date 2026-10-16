@@ -1,7 +1,9 @@
 import {supabase} from './backend';
+import type {Title} from './catalog';
+const mediaKey=(title:Title)=>`${title.type}-${title.id}`;
 type Profile={id:string;name:string;avatar:string;kids:number};
-type Entry={profileId:string;mediaKey:string;kind:string;position:number;duration:number;updatedAt:number};
-type State={profiles:Profile[];library:Entry[];titles:unknown[]};
+type Entry={profileId:string;mediaKey:string;kind:string;position:number;duration:number;updatedAt:number;source?:'embed';episode?:{season:number;episode:number;name?:string}};
+type State={profiles:Profile[];library:Entry[];titles:Title[]};
 export async function accountState(method:string,body:Record<string,unknown>={}){
  if(!supabase)return Response.json({error:'Conexão indisponível.'},{status:503});
  const {data:{user}}=await supabase.auth.getUser();
@@ -23,9 +25,15 @@ export async function accountState(method:string,body:Record<string,unknown>={})
     else if(action==='profile.delete'){if(profile.id===user.id)throw Error('O perfil principal não pode ser removido.');state.profiles=state.profiles.filter(p=>p.id!==profile.id);state.library=state.library.filter(e=>e.profileId!==profile.id);}
     else{
      if(!/^(movie|tv)-[1-9]\d*$/.test(key))throw Error('Título inválido.');
+     const title=body.title as Title|undefined;
+     if(title&&mediaKey(title)===key&&typeof title.title==='string'&&Array.isArray(title.genres))state.titles=[...state.titles.filter(t=>mediaKey(t)!==key),title].slice(-500);
      const kind=action.startsWith('list.')?'list':'history';
      state.library=state.library.filter(e=>!(e.profileId===profile.id&&e.mediaKey===key&&e.kind===kind));
-     if(action==='list.add'||action==='history.progress'){
+     if(action==='history.open'){
+      const episode=body.episode as Entry['episode'];
+      if(episode&&(!Number.isInteger(episode.season)||episode.season<0||!Number.isInteger(episode.episode)||episode.episode<1))throw Error('Episódio inválido.');
+      state.library.push({profileId:profile.id,mediaKey:key,kind:'history',position:0,duration:0,source:'embed',episode,updatedAt:Date.now()});
+     }else if(action==='list.add'||action==='history.progress'){
       const position=Math.max(0,Number(body.position)||0),duration=Math.max(0,Number(body.duration)||0);
       if(kind==='list'||(duration>0&&position/duration<.96))state.library.push({profileId:profile.id,mediaKey:key,kind,position,duration,updatedAt:Date.now()});
      }else if(!['list.remove','history.remove'].includes(action))throw Error('Ação inválida.');

@@ -1,4 +1,5 @@
 node_modules/
+public/videos/*.webm
 dist/
 .env*
 !.env.example

@@ -8,7 +8,7 @@ Copie `.env.example` para `.env.local`, configure a URL e a chave publicável do
 
 ## Autenticação
 
-E-mail e senha usam Supabase Auth. Para habilitar Google, configure o provedor no painel Supabase, cadastre o callback do projeto no Google Cloud e defina a variável de repositório `GOOGLE_LOGIN_ENABLED=true`. Nunca publique client secret ou service role.
+O acesso usa somente e-mail e senha pelo Supabase Auth. Configure um SMTP próprio no painel para que confirmação de cadastro e recuperação de senha funcionem para visitantes externos à equipe. O serviço padrão do Supabase tem envio restrito. Nunca publique senha SMTP ou service role.
 
 Site URL e redirects permitidos: `https://ziezobr.github.io/ziezo-stream-web/`. O reset de senha e a confirmação de e-mail retornam a este endereço.
 
