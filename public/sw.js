@@ -1,4 +1,4 @@
-const ROOT=new URL('./',self.location.href),PREFIX='ziezo-web-'+encodeURIComponent(ROOT.pathname)+'-',CACHE=PREFIX+'v3';
+const ROOT=new URL('./',self.location.href),PREFIX='ziezo-web-'+encodeURIComponent(ROOT.pathname)+'-',CACHE=PREFIX+'v2-logo-1';
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(['offline.html','icons/icon-192.png','icons/icon-512.png','apple-touch-icon.png'].map(path=>new URL(path,ROOT).href)))));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{if(event.request.method==='GET'&&event.request.mode==='navigate'&&event.request.url.startsWith(ROOT.href))event.respondWith(fetch(event.request).catch(()=>caches.match(new URL('offline.html',ROOT).href)));});
