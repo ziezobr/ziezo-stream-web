@@ -23,6 +23,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: node scripts/fetch-open-films.mjs
       - run: npm run build
         env:
           GITHUB_PAGES_BASE: /ziezo-stream-web/
