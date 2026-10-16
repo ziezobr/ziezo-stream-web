@@ -1,0 +1,667 @@
+[
+  {
+    "id": 693134,
+    "title": "Duna: Parte Dois",
+    "year": "2024",
+    "type": "movie",
+    "rating": 8.1,
+    "overview": "A jornada de Paul Atreides continua. Ele está determinado a buscar vingança contra aqueles que destruíram sua família e seu lar. Com a ajuda de Chani e dos Fremen, ele embarca em uma jornada espiritual, mística e marcial. Se torna Muad'Dib, o líder messiânico dos Fremen, enquanto luta para evitar um futuro sombrio que ele testemunhou em visões. No entanto, suas ações inadvertidamente desencadeiam uma Guerra Santa em seu nome, que se espalha pelo universo conhecido. Enquanto enfrenta escolhas difíceis entre o amor por Chani e o destino de seu povo, Paul precisa usar suas habilidades e conhecimentos para evitar o terrível futuro que previu.",
+    "genre": "Ficção científica",
+    "genres": [
+      "Ficção científica"
+    ],
+    "runtime": "2h 46min",
+    "durationMinutes": 166,
+    "poster": "https://image.tmdb.org/t/p/w500/VMy4UGsI2u3f4fALGeCqCdsQBb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/693134",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 414906,
+    "title": "Batman",
+    "year": "2022",
+    "type": "movie",
+    "rating": 7.7,
+    "overview": "Em seu segundo ano de combate ao crime, Batman descobre corrupção em Gotham City que se conecta à sua própria família enquanto enfrenta um serial killer conhecido como Charada.",
+    "genre": "Crime",
+    "genres": [
+      "Crime"
+    ],
+    "runtime": "2h 57min",
+    "durationMinutes": 177,
+    "poster": "https://image.tmdb.org/t/p/w500/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/414906",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 100088,
+    "title": "The Last of Us",
+    "year": "2023",
+    "type": "tv",
+    "rating": 8.4,
+    "overview": "Situado duas décadas após a implosão de nossa sociedade, o drama seguirá Joel, um sobrevivente difícil, que é contratado para contrabandear uma garota de 14 anos chamada Ellie para fora de uma zona de quarentena opressiva. O que começa como um pequeno trabalho logo se torna uma jornada brutal e de partir o coração, já que os dois precisam atravessar os Estados Unidos e dependem um do outro para sobreviver.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/qWo5TP7mBijoZrfxBJkUMctkBt0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/100088",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 94997,
+    "title": "A Casa do Dragão",
+    "year": "2022",
+    "type": "tv",
+    "rating": 8.4,
+    "overview": "200 anos antes dos eventos de \"Game of Thrones\", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.",
+    "genre": "Sci-fi e fantasia",
+    "genres": [
+      "Sci-fi e fantasia"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/94997",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 1399,
+    "title": "Game of Thrones",
+    "year": "2011",
+    "type": "tv",
+    "rating": 8.5,
+    "overview": "Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.",
+    "genre": "Sci-fi e fantasia",
+    "genres": [
+      "Sci-fi e fantasia"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/aqomTRKjNZkmNEeOZnEmWrFTmKU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/1399",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 76331,
+    "title": "Succession",
+    "year": "2018",
+    "type": "tv",
+    "rating": 8.3,
+    "overview": "Acompanhe a história da família Roy, composta por Logan e seus quatro filhos, que controla um dos maiores conglomerados de meios de comunicação e entretenimento do mundo.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/76331",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 111803,
+    "title": "The White Lotus",
+    "year": "2021",
+    "type": "tv",
+    "rating": 7.6,
+    "overview": "Uma sátira social através dos funcionários e hóspedes de um aparentemente idílico resort.",
+    "genre": "Comédia",
+    "genres": [
+      "Comédia"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/sQ35C3pjM8xCBT87xI90DuzizZD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/qVBIAcZkK5j6WRq7JehJcOMbdgb.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/111803",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 87108,
+    "title": "Chernobyl",
+    "year": "2019",
+    "type": "tv",
+    "rating": 8.7,
+    "overview": "Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov (Jared Harris), a física Ulana Khomyuk (Emily Watson) e o vice-presidente do Conselho de Ministros Boris Shcherbina (Stellan Skarsgård) tentam descobrir as causas do acidente.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/87108",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 46648,
+    "title": "True Detective",
+    "year": "2014",
+    "type": "tv",
+    "rating": 8.3,
+    "overview": "Mostrando diferentes perspectivas tanto no passado como no presente, a narrativa se foca na investigação dos crimes supostamente cometidos por um serial killer no ano de 1995 feita pelos detetives Rust Cohle e Martin Hart. Nos dias atuais, o caso é aberto novamente e ambos são questionados pelos atuais detetives, já que a polícia tenta novamente prender o mesmo assassino. A série mostrará ao público o que acontece atualmente, ao mesmo tempo em que revela flashbacks da investigação nos anos 90.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/1fxr55V72a2gtqyn2b8pf6FslOf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/46648",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 194764,
+    "title": "Pinguim",
+    "year": "2024",
+    "type": "tv",
+    "rating": 8.4,
+    "overview": "Após a queda dos Carmines, Oswald “Oz” Cobb está pronto para assumir o controle de Gotham e dar à sua mãe a vida que ele sempre lhe prometeu. Mas primeiro, ele terá de enfrentar inimigos novos e antigos, além do seu tão odiado apelido – O Pinguim – que não tornará o caminho deste gangster tão fácil.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/pPUNmQZUh7h6w2423VvtzUeg1LD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/194764",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 85552,
+    "title": "Euphoria",
+    "year": "2019",
+    "type": "tv",
+    "rating": 8.3,
+    "overview": "Um grupo de estudantes do ensino médio lida com diferentes situações típicas da idade como drogas, sexo, busca pela identidade, traumas, comportamento nas redes sociais e amizade.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/cQMOyNLS1RsQIMlmVR6MEk2fvii.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/85552",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 1398,
+    "title": "Família Soprano",
+    "year": "1999",
+    "type": "tv",
+    "rating": 8.7,
+    "overview": "Chefe da máfia e pai de família, Tony Soprano começa a ter ataques de pânico e decide procurar a ajuda de uma profissional, Dra. Jennifer Melfi. Ele discute sua intimidade e a vida no crime, revelando o desconforto da mulher, Carmela Soprano, com as suas atividades profissionais. Enquanto tenta proteger os filhos, Meadow e Anthony Junior, o mafioso irá enfrentar uma investigação federal e a possível traição de um membro da família.",
+    "genre": "Crime",
+    "genres": [
+      "Crime"
+    ],
+    "runtime": "55 min/episódio (aprox.)",
+    "durationMinutes": 55,
+    "poster": "https://image.tmdb.org/t/p/w500/xmn4PfUivHztFdJBMtijhLU4KTD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/1398",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 1438,
+    "title": "A Escuta",
+    "year": "2002",
+    "type": "tv",
+    "rating": 8.6,
+    "overview": "Uma série que acompanha o desenrolar de uma investigação policial, a partir do ponto de vista dos agentes policiais e também dos criminosos procurados.",
+    "genre": "Crime",
+    "genres": [
+      "Crime"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/taMUpRAnpZzi5yEaDQ45KhKGRyu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/aQTtua5pG490fMfeKgtYg5B853e.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/1438",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 63247,
+    "title": "Westworld",
+    "year": "2016",
+    "type": "tv",
+    "rating": 8,
+    "overview": "Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais.",
+    "genre": "Sci-fi e fantasia",
+    "genres": [
+      "Sci-fi e fantasia"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/gTIgfBA4nzL0AwSccXINrJEYXuM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/63247",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 73107,
+    "title": "Barry",
+    "year": "2018",
+    "type": "tv",
+    "rating": 7.9,
+    "overview": "Barry Berkman, um matador de aluguel contratado para matar um aspirante a ator. Ao seguir seu alvo a uma aula de atuação, Barry se sente atraído pelo grupo e decide mudar de carreira. Mas o passado criminoso não o deixará.",
+    "genre": "Comédia",
+    "genres": [
+      "Comédia"
+    ],
+    "runtime": "30 min/episódio (aprox.)",
+    "durationMinutes": 30,
+    "poster": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nfjqhuGFUWqJD14B4fxlSiZWfeR.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/73107",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 54344,
+    "title": "The Leftovers",
+    "year": "2014",
+    "type": "tv",
+    "rating": 7.7,
+    "overview": "Após dois por cento da população do mundo desaparecer, os que sobraram se esforçam para compreender.",
+    "genre": "Sci-fi e fantasia",
+    "genres": [
+      "Sci-fi e fantasia"
+    ],
+    "runtime": "60 min/episódio (aprox.)",
+    "durationMinutes": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/NKJdryIFHr245Umq6gXsf7oULW.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rK9D7R4nzG3YGBktQY7VD5tGdtb.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/54344",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 66292,
+    "title": "Big Little Lies",
+    "year": "2017",
+    "type": "tv",
+    "rating": 7.9,
+    "overview": "A série, baseada no best-seller homônimo de Liane Moriarty, conta as histórias de três mulheres que moram em Pirriwee, na Austrália, cujas vidas se conectam de uma maneira inesperada, com consequências dramáticas.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "55 min/episódio (aprox.)",
+    "durationMinutes": 55,
+    "poster": "https://image.tmdb.org/t/p/w500/tlyvx2sgSdDgxP1a9JLMngOpOGG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/xJB31sauPSLfxmBU4WEDAf35s2M.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/66292",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 1668,
+    "title": "Friends",
+    "year": "1994",
+    "type": "tv",
+    "rating": 8.4,
+    "overview": "Seis jovens são unidos por laços familiares, românticos e, principalmente, de amizade, enquanto tentam vingar em Nova York.",
+    "genre": "Comédia",
+    "genres": [
+      "Comédia"
+    ],
+    "runtime": "22 min/episódio (aprox.)",
+    "durationMinutes": 22,
+    "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/1668",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 438631,
+    "title": "Duna",
+    "year": "2021",
+    "type": "movie",
+    "rating": 7.8,
+    "overview": "Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar.",
+    "genre": "Ficção científica",
+    "genres": [
+      "Ficção científica"
+    ],
+    "runtime": "2h 35min",
+    "durationMinutes": 155,
+    "poster": "https://image.tmdb.org/t/p/w500/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/zRKQW58MBEY078AxkHxEJzUskCl.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/438631",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 157336,
+    "title": "Interestelar",
+    "year": "2014",
+    "type": "movie",
+    "rating": 8.5,
+    "overview": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
+    "genre": "Aventura",
+    "genres": [
+      "Aventura"
+    ],
+    "runtime": "2h 49min",
+    "durationMinutes": 169,
+    "poster": "https://image.tmdb.org/t/p/w500/tR1XVa5bxgdh2bRw2u0DzrgkO2l.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/157336",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 27205,
+    "title": "A Origem",
+    "year": "2010",
+    "type": "movie",
+    "rating": 8.4,
+    "overview": "Cobb é um ladrão habilidoso que comete espionagem corporativa infiltrando-se no subconsciente de seus alvos durante o estado de sono. Impedido de retornar para sua família, ele recebe a oportunidade de se redimir ao realizar uma tarefa aparentemente impossível: plantar uma ideia na mente do herdeiro de um império. Para realizar o crime perfeito, ele conta com a ajuda do parceiro Arthur, o discreto Eames e a arquiteta de sonhos Ariadne. Juntos, eles correm para que o inimigo não antecipe seus passos.",
+    "genre": "Ação",
+    "genres": [
+      "Ação"
+    ],
+    "runtime": "2h 28min",
+    "durationMinutes": 148,
+    "poster": "https://image.tmdb.org/t/p/w500/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/27205",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 155,
+    "title": "Batman: O Cavaleiro das Trevas",
+    "year": "2008",
+    "type": "movie",
+    "rating": 8.5,
+    "overview": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+    "genre": "Ação",
+    "genres": [
+      "Ação"
+    ],
+    "runtime": "2h 32min",
+    "durationMinutes": 152,
+    "poster": "https://image.tmdb.org/t/p/w500/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/155",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 475557,
+    "title": "Coringa",
+    "year": "2019",
+    "type": "movie",
+    "rating": 8.1,
+    "overview": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
+    "genre": "Crime",
+    "genres": [
+      "Crime"
+    ],
+    "runtime": "2h 2min",
+    "durationMinutes": 122,
+    "poster": "https://image.tmdb.org/t/p/w500/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/475557",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 76341,
+    "title": "Mad Max: Estrada da Fúria",
+    "year": "2015",
+    "type": "movie",
+    "rating": 7.6,
+    "overview": "Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.",
+    "genre": "Ação",
+    "genres": [
+      "Ação"
+    ],
+    "runtime": "2h 1min",
+    "durationMinutes": 121,
+    "poster": "https://image.tmdb.org/t/p/w500/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/76341",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 786892,
+    "title": "Furiosa: Uma Saga Mad Max",
+    "year": "2024",
+    "type": "movie",
+    "rating": 7.4,
+    "overview": "Quando o mundo entra em colapso, a jovem Furiosa é sequestrada do Green Place das Muitas Mães e cai nas mãos da horda de motoqueiros liderada pelo Senhor da Guerra Dementus. Vagando pelo deserto condenado, eles encontram a Cidadela controlada por Immortan Joe. Enquanto os dois tiranos lutam por poder e controle, Furiosa terá que sobreviver a muitos desafios para encontrar e trilhar o caminho de volta para casa.",
+    "genre": "Ação",
+    "genres": [
+      "Ação"
+    ],
+    "runtime": "2h 29min",
+    "durationMinutes": 149,
+    "poster": "https://image.tmdb.org/t/p/w500/7qOSKoOAPgemYhBwbJgBWcCxPWZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/raph7qjAGTMXaIjVxt6ZDSXRzUr.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/786892",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 346698,
+    "title": "Barbie",
+    "year": "2023",
+    "type": "movie",
+    "rating": 6.9,
+    "overview": "No mundo mágico das Barbies, \"Barbieland\", uma das bonecas começa a perceber que não se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza está no interior de cada um.",
+    "genre": "Comédia",
+    "genres": [
+      "Comédia"
+    ],
+    "runtime": "1h 54min",
+    "durationMinutes": 114,
+    "poster": "https://image.tmdb.org/t/p/w500/pP12F7Gutn6CpHYaIPBlDRHlMlk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/346698",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 872585,
+    "title": "Oppenheimer",
+    "year": "2023",
+    "type": "movie",
+    "rating": 8,
+    "overview": "A história do físico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial, e o quanto isso mudaria a história do mundo para sempre.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "3h 1min",
+    "durationMinutes": 181,
+    "poster": "https://image.tmdb.org/t/p/w500/dUPQszWoRSE9FucJTbVp2bwEi9G.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/872585",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 120,
+    "title": "O Senhor dos Anéis: A Sociedade do Anel",
+    "year": "2001",
+    "type": "movie",
+    "rating": 8.4,
+    "overview": "Após herdar um anel de seu tio, o hobbit Frodo participa da missão de salvar a Terra-Média do perverso Sauron. Ele precisa conduzir o Um Anel até a Montanha da Perdição e destruí-lo para sempre e, para isso, conta com a aliança de oito bravos companheiros contando com um mago, três hobbits, um elfo, um anão e dois homens.",
+    "genre": "Aventura",
+    "genres": [
+      "Aventura"
+    ],
+    "runtime": "2h 59min",
+    "durationMinutes": 179,
+    "poster": "https://image.tmdb.org/t/p/w500/tlvsNCwWEIgwAM23aNzTmMIcPEZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/120",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 671,
+    "title": "Harry Potter e a Pedra Filosofal",
+    "year": "2001",
+    "type": "movie",
+    "rating": 7.9,
+    "overview": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursley. Em seu aniversário de 11 anos ele recebe uma carta que mudará sua vida: um convite para ingressar em Hogwarts, uma Escola de Magia e Bruxaria.",
+    "genre": "Aventura",
+    "genres": [
+      "Aventura"
+    ],
+    "runtime": "2h 32min",
+    "durationMinutes": 152,
+    "poster": "https://image.tmdb.org/t/p/w500/4rtsbE9aQ1qw4gv7yYwaNYfWFoS.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/671",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 335984,
+    "title": "Blade Runner 2049",
+    "year": "2017",
+    "type": "movie",
+    "rating": 7.6,
+    "overview": "Trinta anos após os acontecimentos do primeiro filme, um novo blade runner, o oficial K da polícia de Los Angeles, desenterra um segredo há muito enterrado que tem o potencial de mergulhar o que resta da sociedade no caos. A descoberta de K o leva a uma busca para encontrar Rick Deckard, um ex-blade runner do LAPD que está desaparecido há 30 anos.",
+    "genre": "Ficção científica",
+    "genres": [
+      "Ficção científica"
+    ],
+    "runtime": "2h 44min",
+    "durationMinutes": 164,
+    "poster": "https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/335984",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 603,
+    "title": "Matrix",
+    "year": "1999",
+    "type": "movie",
+    "rating": 8.3,
+    "overview": "O jovem programador Thomas Anderson é atormentado por estranhos pesadelos em que está sempre conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a desconfiar da realidade. Thomas conhece os misteriosos Morpheus e Trinity e descobre que é vítima de um sistema inteligente e artificial chamado Matrix, que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.",
+    "genre": "Ação",
+    "genres": [
+      "Ação"
+    ],
+    "runtime": "2h 16min",
+    "durationMinutes": 136,
+    "poster": "https://image.tmdb.org/t/p/w500/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/603",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 787699,
+    "title": "Wonka",
+    "year": "2023",
+    "type": "movie",
+    "rating": 7,
+    "overview": "Antes de se tornar a mente brilhante por trás da maior fábrica de chocolate do mundo, Willy precisou enfrentar vários obstáculos. Cheio de ideias e determinado a mudar o mundo, o jovem Wonka embarca em uma aventura para espalhar alegria através de seu delecioso chocolate.",
+    "genre": "Comédia",
+    "genres": [
+      "Comédia"
+    ],
+    "runtime": "1h 57min",
+    "durationMinutes": 117,
+    "poster": "https://image.tmdb.org/t/p/w500/uQWEomz2wLoijrvoFaJt2gUMXRu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/787699",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 278,
+    "title": "Um Sonho de Liberdade",
+    "year": "1994",
+    "type": "movie",
+    "rating": 8.7,
+    "overview": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "2h 22min",
+    "durationMinutes": 142,
+    "poster": "https://image.tmdb.org/t/p/w500/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/movie/278",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 125988,
+    "title": "Silo",
+    "year": "2023",
+    "type": "tv",
+    "rating": 8.2,
+    "overview": "Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.",
+    "genre": "Sci-fi e fantasia",
+    "genres": [
+      "Sci-fi e fantasia"
+    ],
+    "runtime": "50 min/episódio (aprox.)",
+    "durationMinutes": 50,
+    "poster": "https://image.tmdb.org/t/p/w500/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/125988",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  },
+  {
+    "id": 250307,
+    "title": "The Pitt",
+    "year": "2025",
+    "type": "tv",
+    "rating": 8.7,
+    "overview": "A equipe do Centro Médico de Emergência de Pittsburgh trabalha para salvar vidas em um departamento de emergência superlotado e carente de recursos.",
+    "genre": "Drama",
+    "genres": [
+      "Drama"
+    ],
+    "runtime": "50 min/episódio (aprox.)",
+    "durationMinutes": 50,
+    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+    "source": "TMDB metadata via existing public catalog",
+    "sourceUrl": "https://www.themoviedb.org/tv/250307",
+    "durationSource": "Curated film runtime or approximate typical episode duration"
+  }
+]
