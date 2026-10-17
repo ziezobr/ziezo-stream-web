@@ -1,4 +1,4 @@
-name: Instalador Windows 2.0
+name: Instalador Windows
 on:
   workflow_dispatch:
   push:
@@ -23,18 +23,23 @@ jobs:
         working-directory: desktop
       - run: npm run dist -- --publish never
         working-directory: desktop
-      - name: Publicar versão 2.0
+      - name: Publicar versão Windows
         shell: pwsh
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          $installer = 'desktop/release/ZIEZO-STREAM-Setup-2.0.0.exe'
+          $version = (Get-Content desktop/package.json -Raw | ConvertFrom-Json).version
+          $tag = "v$version"
+          $name = "ZIEZO-STREAM-Setup-$version.exe"
+          $installer = "desktop/release/$name"
           $hash = (Get-FileHash -Algorithm SHA256 -LiteralPath $installer).Hash.ToLower()
-          "$hash  ZIEZO-STREAM-Setup-2.0.0.exe" | Set-Content -Encoding utf8 desktop/release/SHA256SUMS.txt
-          gh release view v2.0.0 --repo $env:GITHUB_REPOSITORY 2>$null
+          "$hash  $name" | Set-Content -Encoding utf8 desktop/release/SHA256SUMS.txt
+          $files = @($installer, 'desktop/release/SHA256SUMS.txt', 'desktop/release/latest.yml', "$installer.blockmap")
+          foreach ($file in $files) { if (!(Test-Path -LiteralPath $file)) { throw "Arquivo obrigatório ausente: $file" } }
+          gh release view $tag --repo $env:GITHUB_REPOSITORY 2>$null
           if ($LASTEXITCODE -eq 0) {
-            gh release upload v2.0.0 $installer desktop/release/SHA256SUMS.txt --clobber --repo $env:GITHUB_REPOSITORY
+            gh release upload $tag @files --clobber --repo $env:GITHUB_REPOSITORY
           } else {
-            gh release create v2.0.0 $installer desktop/release/SHA256SUMS.txt --target $env:GITHUB_SHA --title 'ZIEZO STREAM 2.0 — Windows' --notes-file desktop/release-notes.md --latest --repo $env:GITHUB_REPOSITORY
+            gh release create $tag @files --target $env:GITHUB_SHA --title "ZIEZO STREAM $version — Windows" --notes-file desktop/release-notes.md --latest --repo $env:GITHUB_REPOSITORY
           }
           if ($LASTEXITCODE -ne 0) { throw 'Falha ao publicar o instalador.' }

@@ -1,6 +1,6 @@
 {
   "name": "ziezo-stream-desktop",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Aplicativo oficial do ZIEZO STREAM para Windows",
   "main": "main.cjs",
   "author": "ZIEZO",
@@ -27,7 +27,8 @@
       "main.cjs",
       "offline.html",
       "assets/**/*",
-      "package.json"
+      "package.json",
+      "updater.cjs"
     ],
     "win": {
       "icon": "assets/icon.ico",
@@ -51,6 +52,17 @@
       "uninstallerIcon": "assets/icon.ico",
       "installerSidebar": "assets/installer-sidebar.bmp",
       "uninstallerSidebar": "assets/installer-sidebar.bmp"
-    }
+    },
+    "publish": [
+      {
+        "owner": "ziezobr",
+        "repo": "ziezo-stream-web",
+        "provider": "github",
+        "releaseType": "release"
+      }
+    ]
+  },
+  "dependencies": {
+    "electron-updater": "6.8.9"
   }
 }

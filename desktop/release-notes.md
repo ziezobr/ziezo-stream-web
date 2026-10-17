@@ -1,10 +1,10 @@
-ZIEZO STREAM 2.0 para Windows 64 bits.
+ZIEZO STREAM 2.1 para Windows 64 bits.
 
-- Sua logo no aplicativo, atalhos, ícone e instalador.
-- Acesso à nova versão em https://ziezobr.github.io/ziezo-stream-web/.
-- Login por e-mail e senha, perfis e biblioteca na nova base Supabase.
-- Catálogo atualizado pelo site, sem reinstalar o programa a cada mudança.
+- Atualizações do aplicativo baixadas automaticamente em segundo plano pelo GitHub Releases.
+- Escolha quando reiniciar para instalar, sem interromper sua sessão automaticamente.
+- Menu Aplicativo > Verificar atualizações (pressione Alt para mostrar o menu).
+- Sua logo, conta, perfis e biblioteca preservados.
 
-Baixe **ZIEZO-STREAM-Setup-2.0.0.exe**, feche a versão anterior e execute o instalador. É necessária conexão com a internet. O instalador não possui assinatura digital comercial.
+Quem utiliza a versão 2.0 precisa instalar esta versão uma vez. Depois, as próximas versões poderão ser recebidas pelo próprio aplicativo. O site e catálogo continuam atualizando pela internet.
 
-Confirmação de cadastro e recuperação de senha para visitantes dependem da conclusão da configuração de envio de e-mails.
+Baixe ZIEZO-STREAM-Setup-2.1.0.exe e feche a versão anterior antes de instalar. O instalador ainda não possui assinatura digital comercial. Não é necessário desativar proteções do Windows.
