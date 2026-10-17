@@ -1,0 +1,584 @@
+[
+  {
+    "name": "Globo SP",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",
+    "category": "Abertos",
+    "id": "globo-sp"
+  },
+  {
+    "name": "Globo RJ",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",
+    "category": "Abertos",
+    "id": "globo-rj"
+  },
+  {
+    "name": "Globo MG",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",
+    "category": "Abertos",
+    "id": "globo-mg"
+  },
+  {
+    "name": "SBT",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png",
+    "category": "Abertos",
+    "id": "sbt"
+  },
+  {
+    "name": "Record TV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png",
+    "category": "Abertos",
+    "id": "record-tv"
+  },
+  {
+    "name": "Band",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png",
+    "category": "Abertos",
+    "id": "band"
+  },
+  {
+    "name": "RedeTV!",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-tv-br.png",
+    "category": "Abertos",
+    "id": "rede-tv"
+  },
+  {
+    "name": "TV Cultura",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura-br.png",
+    "category": "Abertos",
+    "id": "cultura"
+  },
+  {
+    "name": "SporTV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png",
+    "category": "Esportes",
+    "id": "sportv"
+  },
+  {
+    "name": "SporTV 2",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv2-br.png",
+    "category": "Esportes",
+    "id": "sportv-2"
+  },
+  {
+    "name": "SporTV 3",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv3-br.png",
+    "category": "Esportes",
+    "id": "sportv-3"
+  },
+  {
+    "name": "ESPN Brasil",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-br.png",
+    "category": "Esportes",
+    "id": "espn"
+  },
+  {
+    "name": "ESPN 2",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-2-br.png",
+    "category": "Esportes",
+    "id": "espn-2"
+  },
+  {
+    "name": "ESPN 3",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-3-br.png",
+    "category": "Esportes",
+    "id": "espn-3"
+  },
+  {
+    "name": "ESPN 4",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/espn-4-br.png",
+    "category": "Esportes",
+    "id": "espn-4"
+  },
+  {
+    "name": "Fox Sports",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/fox-sports-br.png",
+    "category": "Esportes",
+    "id": "fox-sports"
+  },
+  {
+    "name": "Fox Sports 2",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/fox-sports-2-br.png",
+    "category": "Esportes",
+    "id": "fox-sports-2"
+  },
+  {
+    "name": "Premiere FC",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png",
+    "category": "Esportes",
+    "id": "premiere"
+  },
+  {
+    "name": "Premiere 2",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png",
+    "category": "Esportes",
+    "id": "premiere-2"
+  },
+  {
+    "name": "Premiere 3",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png",
+    "category": "Esportes",
+    "id": "premiere-3"
+  },
+  {
+    "name": "Premiere 4",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png",
+    "category": "Esportes",
+    "id": "premiere-4"
+  },
+  {
+    "name": "Premiere 5",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png",
+    "category": "Esportes",
+    "id": "premiere-5"
+  },
+  {
+    "name": "Premiere 6",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png",
+    "category": "Esportes",
+    "id": "premiere-6"
+  },
+  {
+    "name": "Premiere 7",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png",
+    "category": "Esportes",
+    "id": "premiere-7"
+  },
+  {
+    "name": "Band Sports",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png",
+    "category": "Esportes",
+    "id": "band-sports"
+  },
+  {
+    "name": "Combate",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/combate-br.png",
+    "category": "Esportes",
+    "id": "combate"
+  },
+  {
+    "name": "Ei Plus",
+    "logo": "https://logoeps.com/wp-content/uploads/2013/03/ei-plus-vector-logo.png",
+    "category": "Esportes",
+    "id": "ei-plus"
+  },
+  {
+    "name": "Fish TV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/fish-tv-br.png",
+    "category": "Esportes",
+    "id": "fish-tv"
+  },
+  {
+    "name": "CNN Brasil",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cnn-brasil-br.png",
+    "category": "Notícias",
+    "id": "cnn-brasil"
+  },
+  {
+    "name": "GloboNews",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globonews-br.png",
+    "category": "Notícias",
+    "id": "globo-news"
+  },
+  {
+    "name": "BandNews TV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/bandnews-tv-br.png",
+    "category": "Notícias",
+    "id": "band-news"
+  },
+  {
+    "name": "Record News",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-news-br.png",
+    "category": "Notícias",
+    "id": "record-news"
+  },
+  {
+    "name": "SBT News",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png",
+    "category": "Notícias",
+    "id": "sbt-news"
+  },
+  {
+    "name": "Cartoon Network",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cartoon-network-br.png",
+    "category": "Infantil",
+    "id": "cartoon-network"
+  },
+  {
+    "name": "Disney Channel",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/disney-channel-br.png",
+    "category": "Infantil",
+    "id": "disney-channel"
+  },
+  {
+    "name": "Disney Junior",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/disney-junior-br.png",
+    "category": "Infantil",
+    "id": "disney-junior"
+  },
+  {
+    "name": "Nickelodeon",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/nickelodeon-br.png",
+    "category": "Infantil",
+    "id": "nickelodeon"
+  },
+  {
+    "name": "Nick Jr",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/nick-jr-br.png",
+    "category": "Infantil",
+    "id": "nick-jr"
+  },
+  {
+    "name": "Discovery Channel",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-channel-br.png",
+    "category": "Documentários",
+    "id": "discovery-channel"
+  },
+  {
+    "name": "Discovery Kids",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png",
+    "category": "Infantil",
+    "id": "discovery-kids"
+  },
+  {
+    "name": "Animal Planet",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/animal-planet-br.png",
+    "category": "Documentários",
+    "id": "animal-planet"
+  },
+  {
+    "name": "History Channel",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/history-br.png",
+    "category": "Documentários",
+    "id": "history-channel"
+  },
+  {
+    "name": "National Geographic",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/national-geographic-br.png",
+    "category": "Documentários",
+    "id": "national-geographic"
+  },
+  {
+    "name": "Telecine Action",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/telecine-action-br.png",
+    "category": "Filmes",
+    "id": "telecine-action"
+  },
+  {
+    "name": "Telecine Premium",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/telecine-premium-br.png",
+    "category": "Filmes",
+    "id": "telecine-premium"
+  },
+  {
+    "name": "Telecine Pipoca",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/telecine-pipoca-br.png",
+    "category": "Filmes",
+    "id": "telecine-pipoca"
+  },
+  {
+    "name": "Telecine Fun",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/telecine-fun-br.png",
+    "category": "Filmes",
+    "id": "telecine-fun"
+  },
+  {
+    "name": "Telecine Touch",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/telecine-touch-br.png",
+    "category": "Filmes",
+    "id": "telecine-touch"
+  },
+  {
+    "name": "Telecine Cult",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/telecine-cult-br.png",
+    "category": "Filmes",
+    "id": "telecine-cult"
+  },
+  {
+    "name": "HBO",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-br.png",
+    "category": "Filmes",
+    "id": "hbo"
+  },
+  {
+    "name": "HBO 2",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png",
+    "category": "Filmes",
+    "id": "hbo-2"
+  },
+  {
+    "name": "HBO Plus",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-plus-br.png",
+    "category": "Filmes",
+    "id": "hbo-plus"
+  },
+  {
+    "name": "HBO Family",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-family-br.png",
+    "category": "Filmes",
+    "id": "hbo-family"
+  },
+  {
+    "name": "Max Prime",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/max-prime-br.png",
+    "category": "Filmes",
+    "id": "max-prime"
+  },
+  {
+    "name": "Max Up",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/max-up-br.png",
+    "category": "Filmes",
+    "id": "max-up"
+  },
+  {
+    "name": "Cinemax",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cinemax-br.png",
+    "category": "Filmes",
+    "id": "cinemax"
+  },
+  {
+    "name": "Megapix",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/megapix-br.png",
+    "category": "Filmes",
+    "id": "megapix"
+  },
+  {
+    "name": "FX",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/fx-br.png",
+    "category": "Séries",
+    "id": "fx"
+  },
+  {
+    "name": "FOX",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/fox-br.png",
+    "category": "Séries",
+    "id": "fox"
+  },
+  {
+    "name": "Sony Channel",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png",
+    "category": "Séries",
+    "id": "sony-channel"
+  },
+  {
+    "name": "Warner Channel",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/warner-channel-br.png",
+    "category": "Séries",
+    "id": "warner-channel"
+  },
+  {
+    "name": "Universal Channel",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/universal-tv-br.png",
+    "category": "Séries",
+    "id": "universal-channel"
+  },
+  {
+    "name": "AXN",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/axn-br.png",
+    "category": "Séries",
+    "id": "axn"
+  },
+  {
+    "name": "TNT",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png",
+    "category": "Filmes",
+    "id": "tnt"
+  },
+  {
+    "name": "Space",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png",
+    "category": "Filmes",
+    "id": "space"
+  },
+  {
+    "name": "MTV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/mtv-br.png",
+    "category": "Música",
+    "id": "mtv"
+  },
+  {
+    "name": "Multishow",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/multishow-br.png",
+    "category": "Entretenimento",
+    "id": "multishow"
+  },
+  {
+    "name": "Comedy Central",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/comedy-central-br.png",
+    "category": "Entretenimento",
+    "id": "comedy-central"
+  },
+  {
+    "name": "Paramount Network",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/paramount-network-br.png",
+    "category": "Entretenimento",
+    "id": "paramount-network"
+  },
+  {
+    "name": "E! Entertainment",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/e-entertainment-br.png",
+    "category": "Entretenimento",
+    "id": "e-entertainment"
+  },
+  {
+    "name": "Lifetime",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/lifetime-br.png",
+    "category": "Entretenimento",
+    "id": "lifetime"
+  },
+  {
+    "name": "TLC",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tlc-br.png",
+    "category": "Entretenimento",
+    "id": "tlc"
+  },
+  {
+    "name": "Food Network",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/food-network-br.png",
+    "category": "Culinária",
+    "id": "food-network"
+  },
+  {
+    "name": "HGTV",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hgtv-br.png",
+    "category": "Casa e Decoração",
+    "id": "hgtv"
+  },
+  {
+    "name": "Investigation Discovery",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/investigation-discovery-br.png",
+    "category": "Documentários",
+    "id": "investigation-discovery"
+  },
+  {
+    "name": "Travel Channel",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/travel-channel-br.png",
+    "category": "Viagem",
+    "id": "travel-channel"
+  },
+  {
+    "name": "UFC Fight Pass",
+    "logo": "https://i.imgur.com/jUZoTpA.png",
+    "category": "Lutas",
+    "id": "ufc-fight-pass"
+  },
+  {
+    "name": "teste",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png",
+    "category": "teste",
+    "id": "teste2"
+  },
+  {
+    "name": "Caze TV #1",
+    "logo": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/03/1163449859-copacazetv.jpg",
+    "category": "Esportes",
+    "id": "caze-tv-1"
+  },
+  {
+    "name": "Caze TV #2",
+    "logo": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/03/1163449859-copacazetv.jpg",
+    "category": "Esportes",
+    "id": "caze-tv-2"
+  },
+  {
+    "name": "PRIME VIDEO #1",
+    "logo": "https://cloud.estacaonerd.com/wp-content/uploads/2020/10/12194108/Amazon-Prime.png",
+    "category": "Esportes",
+    "id": "prime-video-1"
+  },
+  {
+    "name": "PRIME VIDEO #2",
+    "logo": "https://cloud.estacaonerd.com/wp-content/uploads/2020/10/12194108/Amazon-Prime.png",
+    "category": "Esportes",
+    "id": "prime-video-2"
+  },
+  {
+    "name": "PRIME VIDEO #3",
+    "logo": "https://cloud.estacaonerd.com/wp-content/uploads/2020/10/12194108/Amazon-Prime.png",
+    "category": "Esportes",
+    "id": "prime-video-3"
+  },
+  {
+    "name": "Paramount #1",
+    "logo": "https://store-images.s-microsoft.com/image/apps.35768.9007199266243596.ad78eadf-f174-4f68-8c73-562e5c227afa.9171eaf0-5404-436f-803e-5f420e055b0e",
+    "category": "Esportes",
+    "id": "paramount-1"
+  },
+  {
+    "name": "Paramount #2",
+    "logo": "https://store-images.s-microsoft.com/image/apps.35768.9007199266243596.ad78eadf-f174-4f68-8c73-562e5c227afa.9171eaf0-5404-436f-803e-5f420e055b0e",
+    "category": "Esportes",
+    "id": "paramount-2"
+  },
+  {
+    "name": "Paramount #3",
+    "logo": "https://store-images.s-microsoft.com/image/apps.35768.9007199266243596.ad78eadf-f174-4f68-8c73-562e5c227afa.9171eaf0-5404-436f-803e-5f420e055b0e",
+    "category": "Esportes",
+    "id": "paramount-3"
+  },
+  {
+    "name": "TNT (Fonte Custom)",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png",
+    "category": "Filmes",
+    "id": "tnt-custom"
+  },
+  {
+    "name": "GETV",
+    "logo": "https://yt3.googleusercontent.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s900-c-k-c0x00ffffff-no-rj",
+    "category": "Esportes",
+    "id": "getv"
+  },
+  {
+    "name": "BBB 1",
+    "logo": "https://api.reidoscanais.io/img/bbb.png",
+    "category": "BBB",
+    "id": "bbb1"
+  },
+  {
+    "name": "BBB 2",
+    "logo": "https://api.reidoscanais.io/img/bbb.png",
+    "category": "BBB",
+    "id": "bbb2"
+  },
+  {
+    "name": "BBB 3",
+    "logo": "https://api.reidoscanais.io/img/bbb.png",
+    "category": "BBB",
+    "id": "bbb3"
+  },
+  {
+    "name": "BBB 4",
+    "logo": "https://api.reidoscanais.io/img/bbb.png",
+    "category": "BBB",
+    "id": "bbb4"
+  },
+  {
+    "name": "BBB 5",
+    "logo": "https://api.reidoscanais.io/img/bbb.png",
+    "category": "BBB",
+    "id": "bbb5"
+  },
+  {
+    "name": "BBB 6",
+    "logo": "https://api.reidoscanais.io/img/bbb.png",
+    "category": "BBB",
+    "id": "bbb6"
+  },
+  {
+    "name": "X Sports",
+    "logo": "data:image/jpeg;base64,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",
+    "category": "Futebol",
+    "id": "xsports"
+  },
+  {
+    "name": "HBO MAX 1",
+    "logo": "https://img.utdstc.com/icon/06a/098/06a098454fe9f0889d50521da4b1fdf239f51ad8ae431854e7504df93c4aa5be:200",
+    "category": "Futebol",
+    "id": "max1"
+  },
+  {
+    "name": "HBO MAX 2",
+    "logo": "https://img.utdstc.com/icon/06a/098/06a098454fe9f0889d50521da4b1fdf239f51ad8ae431854e7504df93c4aa5be:200",
+    "category": "Futebol",
+    "id": "max2"
+  }
+]
