@@ -1,94 +1,10 @@
 [
   {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo",
-    "id": "amazonprimevideo",
-    "category": "Esportes",
-    "name": "Amazon Prime",
-    "logo": "https://1.embedcanaisdetv.com/images/amazonprimevideo.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo02",
-    "id": "amazonprimevideo02",
-    "category": "Esportes",
-    "name": "Amazon Prime 02",
-    "logo": "https://1.embedcanaisdetv.com/images/amazonprimevideo.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo03",
-    "id": "amazonprimevideo03",
-    "category": "Esportes",
-    "name": "Amazon Prime 03",
-    "logo": "https://1.embedcanaisdetv.com/images/amazonprimevideo.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo04",
-    "id": "amazonprimevideo04",
-    "category": "Esportes",
-    "name": "Amazon Prime 04",
-    "logo": "https://1.embedcanaisdetv.com/images/amazonprimevideo.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=amazonprimevideo05",
-    "id": "amazonprimevideo05",
-    "category": "Esportes",
-    "name": "Amazon Prime 05",
-    "logo": "https://1.embedcanaisdetv.com/images/amazonprimevideo.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=appletv01",
-    "id": "appletv01",
-    "category": "Esportes",
-    "name": "Apple TV 01",
-    "logo": "https://1.embedcanaisdetv.com/images/appletv1.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=appletv02",
-    "id": "appletv02",
-    "category": "Esportes",
-    "name": "Apple TV 02",
-    "logo": "https://1.embedcanaisdetv.com/images/appletv1.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=appletv03",
-    "id": "appletv03",
-    "category": "Esportes",
-    "name": "Apple TV 03",
-    "logo": "https://vipcanais.net/images/appletv1.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=appletv04",
-    "id": "appletv04",
-    "category": "Esportes",
-    "name": "Apple TV 04",
-    "logo": "https://vipcanais.net/images/appletv1.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=appletv05",
-    "id": "appletv05",
-    "category": "Esportes",
-    "name": "Apple TV 05",
-    "logo": "https://vipcanais.net/images/appletv1.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=appletv06",
-    "id": "appletv06",
-    "category": "Esportes",
-    "name": "Apple TV 06",
-    "logo": "https://vipcanais.net/images/appletv1.png"
-  },
-  {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=bandsports",
     "id": "bandsports",
     "category": "Esportes",
     "name": "Band Sports",
     "logo": "https://1.embedcanaisdetv.com/images/bandsports.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=canalgoat",
-    "id": "canalgoat",
-    "category": "Esportes",
-    "name": "Canal GOAT",
-    "logo": "https://vipcanais.net/images/canalgoat.png"
   },
   {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=canaloff",
@@ -98,45 +14,10 @@
     "logo": "https://1.embedcanaisdetv.com/images/canaloff.png"
   },
   {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=cazetv",
-    "id": "cazetv",
-    "category": "Esportes",
-    "name": "CazéTV",
-    "logo": "https://1.embedcanaisdetv.com/images/cazetv.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=cazetv2",
-    "id": "cazetv2",
-    "category": "Esportes",
-    "name": "CazéTV 2",
-    "logo": "https://vipcanais.net/images/cazetv.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=cazetv3",
-    "id": "cazetv3",
-    "category": "Esportes",
-    "name": "CazéTV 3",
-    "logo": "https://vipcanais.net/images/cazetv.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=cazetv4",
-    "id": "cazetv4",
-    "category": "Esportes",
-    "name": "CazéTV 4",
-    "logo": "https://vipcanais.net/images/cazetv.png"
-  },
-  {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=cazetv5",
     "id": "cazetv5",
     "category": "Esportes",
     "name": "CazéTV 5",
-    "logo": "https://vipcanais.net/images/cazetv.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=cazetv6",
-    "id": "cazetv6",
-    "category": "Esportes",
-    "name": "CazéTV 6",
     "logo": "https://vipcanais.net/images/cazetv.png"
   },
   {
@@ -145,76 +26,6 @@
     "category": "Esportes",
     "name": "Combate",
     "logo": "https://1.embedcanaisdetv.com/images/combate.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=dazn",
-    "id": "dazn",
-    "category": "Esportes",
-    "name": "DAZN",
-    "logo": "https://1.embedcanaisdetv.com/images/dazn.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=disneyplus07",
-    "id": "disneyplus07",
-    "category": "Esportes",
-    "name": "Disney + 07",
-    "logo": "https://vipcanais.net/images/disneyplus.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=disneyplus08",
-    "id": "disneyplus08",
-    "category": "Esportes",
-    "name": "Disney + 08",
-    "logo": "https://vipcanais.net/images/disneyplus.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=disneyplus09",
-    "id": "disneyplus09",
-    "category": "Esportes",
-    "name": "Disney + 09",
-    "logo": "https://vipcanais.net/images/disneyplus.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=disneyplus",
-    "id": "disneyplus",
-    "category": "Esportes",
-    "name": "Disney+",
-    "logo": "https://1.embedcanaisdetv.com/images/disneyplus.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=disneyplus02",
-    "id": "disneyplus02",
-    "category": "Esportes",
-    "name": "Disney+ 02",
-    "logo": "https://1.embedcanaisdetv.com/images/disneyplus.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=disneyplus03",
-    "id": "disneyplus03",
-    "category": "Esportes",
-    "name": "Disney+ 03",
-    "logo": "https://1.embedcanaisdetv.com/images/disneyplus.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=disneyplus04",
-    "id": "disneyplus04",
-    "category": "Esportes",
-    "name": "Disney+ 04",
-    "logo": "https://1.embedcanaisdetv.com/images/disneyplus.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=disneyplus05",
-    "id": "disneyplus05",
-    "category": "Esportes",
-    "name": "Disney+ 05",
-    "logo": "https://1.embedcanaisdetv.com/images/disneyplus.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=disneyplus06",
-    "id": "disneyplus06",
-    "category": "Esportes",
-    "name": "Disney+ 06",
-    "logo": "https://1.embedcanaisdetv.com/images/disneyplus.png"
   },
   {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=espn",
@@ -266,31 +77,10 @@
     "logo": "https://1.embedcanaisdetv.com/images/getv.png"
   },
   {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=max",
-    "id": "max",
-    "category": "Esportes",
-    "name": "Max",
-    "logo": "https://1.embedcanaisdetv.com/images/max.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=max02",
-    "id": "max02",
-    "category": "Esportes",
-    "name": "Max 02",
-    "logo": "https://1.embedcanaisdetv.com/images/max.png"
-  },
-  {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=max04",
     "id": "max04",
     "category": "Esportes",
     "name": "Max 04",
-    "logo": "https://1.embedcanaisdetv.com/images/max.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=max05",
-    "id": "max05",
-    "category": "Esportes",
-    "name": "Max 05",
     "logo": "https://1.embedcanaisdetv.com/images/max.png"
   },
   {
@@ -299,13 +89,6 @@
     "category": "Esportes",
     "name": "N Sports",
     "logo": "https://1.embedcanaisdetv.com/images/nsports.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=nossofutebol",
-    "id": "nossofutebol",
-    "category": "Esportes",
-    "name": "Nosso Futebol",
-    "logo": "https://1.embedcanaisdetv.com/images/nossofutebol.png"
   },
   {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=paramountplus",
