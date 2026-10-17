@@ -23,6 +23,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: node --test tests/ad-policy.test.mjs
       - run: node scripts/fetch-open-films.mjs
       - run: npm run build
         env:
@@ -30,6 +31,8 @@ jobs:
           VITE_SUPABASE_URL: https://jxmkyzpscscajnnkerhd.supabase.co
           VITE_SUPABASE_PUBLISHABLE_KEY: sb_publishable_WOSBOFaeQdYlQ09_ip_bfw_00nnHY9N
           VITE_GOOGLE_LOGIN: ${{ vars.GOOGLE_LOGIN_ENABLED }}
+          VITE_ADSENSE_APPROVED: ${{ vars.ADSENSE_APPROVED }}
+          VITE_ADSENSE_CONSENT_READY: ${{ vars.ADSENSE_CONSENT_READY }}
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
