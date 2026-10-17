@@ -6,6 +6,7 @@ import { TMDBBrowse, TMDBDetails } from './tmdb-ui';
 import {NotchNav} from './components/adaptive-notch';
 import {Brand} from './components/brand';
 import {CatalogAd} from './components/catalog-ad';
+import {prefersTV} from './lib/tv-device.mjs';
 import {asset,apiFetch,supabase} from './lib/backend';
 import type {Account} from './auth';
 import EmbedPlayer from './embed-player';
@@ -91,7 +92,7 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
   const [profileForm,setProfileForm]=useState<{id?:string;name:string;avatar:string;kids:boolean}|null>(null);
   const [formError,setFormError]=useState('');
   const [confirmDelete,setConfirmDelete]=useState(false);
-  const [tvMode,setTvMode]=useState(false);
+  const [tvMode,setTvMode]=useState(()=>{let saved=null;try{saved=localStorage.getItem('ziezo-tv-v2');}catch{}return prefersTV(navigator.userAgent,location.search,saved);});
   const [installPrompt,setInstallPrompt]=useState<InstallEvent|null>(null);
   const [installed,setInstalled]=useState(false);
   const [videoError,setVideoError]=useState(false);
@@ -115,18 +116,21 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
       setState(data);if(data.titles?.length)setCatalog(old=>[...new Map([...old,...data.titles!].map(i=>[mediaKey(i),i])).values()]);setStateError('');setLoaded(true);
     }catch(error){setStateError(error instanceof Error?error.message:'Biblioteca indisponível.');setLoaded(true);}
   },[user]);
-  useEffect(()=>{void refresh();try{setActiveId(localStorage.getItem('ziezo-active-profile-v2')||'');setTvMode(localStorage.getItem('ziezo-tv-v2')==='on');}catch{}},[refresh]);
+  useEffect(()=>{void refresh();try{setActiveId(localStorage.getItem('ziezo-active-profile-v2')||'');}catch{}},[refresh]);
   useEffect(()=>{if(!profile)return;try{localStorage.setItem('ziezo-active-profile-v2',profile.id);}catch{}},[profile]);
   useEffect(()=>{if(view==='search')searchInput.current?.focus();},[view]);
   useEffect(()=>{
     if(!tvMode)return;
+    const initial=()=>{if(document.activeElement===document.body)document.querySelector<HTMLElement>('.tv-header button')?.focus();};initial();
     const move=(event:KeyboardEvent)=>{
+      if(event.defaultPrevented)return;
+      if(event.keyCode===10009||event.keyCode===461){if(document.querySelector('[role=dialog]')){document.dispatchEvent(new KeyboardEvent('keydown',{key:'Escape',bubbles:true}));event.preventDefault();}return;}
       if(!['ArrowLeft','ArrowRight','ArrowUp','ArrowDown'].includes(event.key))return;
       const current=document.activeElement as HTMLElement|null;
       if(!current||current.matches('input,select,textarea,video')||current.closest('.player-shell'))return;
-      const scope=document.querySelector('.modal')||document.querySelector('.cinema');
+      const scope=document.querySelector('[role=dialog]')||document.querySelector('.cinema');
       const rect=current.getBoundingClientRect(),cx=rect.left+rect.width/2,cy=rect.top+rect.height/2;
-      const candidates=Array.from(scope?.querySelectorAll<HTMLElement>('button:not(:disabled),a[href]')||[]).filter(item=>item!==current&&item.getClientRects().length&&getComputedStyle(item).visibility!=='hidden');
+      const candidates=Array.from(scope?.querySelectorAll<HTMLElement>('button:not(:disabled),a[href],input:not(:disabled),select:not(:disabled),iframe')||[]).filter(item=>item!==current&&item.getClientRects().length&&getComputedStyle(item).visibility!=='hidden');
       const horizontal=event.key==='ArrowLeft'||event.key==='ArrowRight',direction=event.key==='ArrowLeft'||event.key==='ArrowUp'?-1:1;
       const closest=candidates.map(item=>{const r=item.getBoundingClientRect(),dx=r.left+r.width/2-cx,dy=r.top+r.height/2-cy;return{item,forward:(horizontal?dx:dy)*direction,cross:Math.abs(horizontal?dy:dx)};}).filter(item=>item.forward>8).sort((a,b)=>(a.forward+a.cross*3)-(b.forward+b.cross*3))[0];
       if(closest){event.preventDefault();closest.item.focus();closest.item.scrollIntoView({block:'nearest',inline:'nearest',behavior:'smooth'});}
@@ -189,7 +193,7 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
 
   return <div className={`cinema ${tvMode?'tv-mode':''}`}>
     <a className="skip-link" href="#main">Pular para o conteúdo</a>
-    <NotchNav className="ziezo-modern-nav" items={navigation.map(([id,label])=>({id,label,icon:id==='home'?Home:id==='movies'?Film:id==='series'?Tv:id==='live'?Tv:Bookmark}))} activeId={view} onActiveChange={id=>go(id as View)} logo={<button className="wordmark" aria-label="ZIEZO STREAM — início" onClick={()=>go('home')}><Brand/></button>} rightContent={<div className="modern-actions"><button className="icon-button" aria-label="Buscar filmes e séries" onClick={()=>go('search')}><Search size={19}/></button>{user?<button className={`avatar avatar-${profile?.avatar||'lime'}`} aria-label="Trocar perfil" onClick={()=>{setDialog('profiles');setProfileForm(null);}}>{profile?.name?.[0]?.toUpperCase()||user.name[0]}</button>:<button className="nav-login" onClick={onAuthRequest}>Entrar <ArrowUpRight size={14}/></button>}</div>}/>
+    {tvMode?<header className="tv-header"><button className="wordmark" aria-label="ZIEZO STREAM — início" onClick={()=>go('home')}><Brand/></button><nav aria-label="Navegação da TV">{navigation.map(([id,label])=><button key={id} aria-current={view===id?'page':undefined} onClick={()=>go(id)}>{label}</button>)}</nav><button onClick={()=>go('search')}>Buscar</button><button onClick={()=>user?setDialog('profiles'):onAuthRequest()}>{user?'Perfis':'Entrar'}</button></header>:<NotchNav className="ziezo-modern-nav" items={navigation.map(([id,label])=>({id,label,icon:id==='home'?Home:id==='movies'?Film:id==='series'?Tv:id==='live'?Tv:Bookmark}))} activeId={view} onActiveChange={id=>go(id as View)} logo={<button className="wordmark" aria-label="ZIEZO STREAM — início" onClick={()=>go('home')}><Brand/></button>} rightContent={<div className="modern-actions"><button className="icon-button" aria-label="Buscar filmes e séries" onClick={()=>go('search')}><Search size={19}/></button>{user?<button className={`avatar avatar-${profile?.avatar||'lime'}`} aria-label="Trocar perfil" onClick={()=>{setDialog('profiles');setProfileForm(null);}}>{profile?.name?.[0]?.toUpperCase()||user.name[0]}</button>:<button className="nav-login" onClick={onAuthRequest}>Entrar <ArrowUpRight size={14}/></button>}</div>}/>} 
 
     <main id="main">
       {view==='home'?<>
@@ -240,5 +244,6 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
     </Modal>}
   </div>;
 }
+
 
 

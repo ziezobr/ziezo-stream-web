@@ -23,7 +23,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: node --test tests/ad-policy.test.mjs
+      - run: node --test tests/*.test.mjs
       - run: node scripts/fetch-open-films.mjs
       - run: npm run build
         env:
@@ -39,3 +39,4 @@ jobs:
           path: dist
       - uses: actions/deploy-pages@v4
         id: deployment
+
