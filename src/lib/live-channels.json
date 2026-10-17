@@ -280,13 +280,6 @@
     "logo": "https://1.embedcanaisdetv.com/images/max.png"
   },
   {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=max03",
-    "id": "max03",
-    "category": "Esportes",
-    "name": "Max 03",
-    "logo": "https://1.embedcanaisdetv.com/images/max.png"
-  },
-  {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=max04",
     "id": "max04",
     "category": "Esportes",
@@ -298,13 +291,6 @@
     "id": "max05",
     "category": "Esportes",
     "name": "Max 05",
-    "logo": "https://1.embedcanaisdetv.com/images/max.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=max06",
-    "id": "max06",
-    "category": "Esportes",
-    "name": "Max 06",
     "logo": "https://1.embedcanaisdetv.com/images/max.png"
   },
   {
@@ -432,13 +418,6 @@
     "category": "Esportes",
     "name": "SporTV",
     "logo": "https://1.embedcanaisdetv.com/images/sportv.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=sportv2/ allow=",
-    "id": "sportv2",
-    "category": "Esportes",
-    "name": "SporTV 2",
-    "logo": "https://1.embedcanaisdetv.com/images/sportv2.png"
   },
   {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=sportv3",
@@ -593,13 +572,6 @@
     "category": "Filmes e Séries",
     "name": "Megapix",
     "logo": "https://1.embedcanaisdetv.com/images/megapix.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=paramountnetwork",
-    "id": "paramountnetwork",
-    "category": "Filmes e Séries",
-    "name": "Paramount Network",
-    "logo": "https://1.embedcanaisdetv.com/images/paramountnetwork.png"
   },
   {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=sonychannel",
@@ -833,13 +805,6 @@
     "logo": "https://1.embedcanaisdetv.com/images/animalplanet.png"
   },
   {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=comedycentral",
-    "id": "comedycentral",
-    "category": "Variedades",
-    "name": "Comedy Central",
-    "logo": "https://1.embedcanaisdetv.com/images/comedycentral.png"
-  },
-  {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=discoverychannel",
     "id": "discoverychannel",
     "category": "Variedades",
@@ -894,13 +859,6 @@
     "category": "Variedades",
     "name": "GNT",
     "logo": "https://1.embedcanaisdetv.com/images/gnt.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=hgtv",
-    "id": "hgtv",
-    "category": "Variedades",
-    "name": "HGTV",
-    "logo": "https://1.embedcanaisdetv.com/images/hgtv.png"
   },
   {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=history",
@@ -994,13 +952,6 @@
     "logo": "https://1.embedcanaisdetv.com/images/discoverykids.png"
   },
   {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=dreamworks",
-    "id": "dreamworks",
-    "category": "Infantil",
-    "name": "DreamWorks",
-    "logo": "https://1.embedcanaisdetv.com/images/dreamworks.png"
-  },
-  {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=gloob",
     "id": "gloob",
     "category": "Infantil",
@@ -1013,20 +964,6 @@
     "category": "Infantil",
     "name": "Gloobinho",
     "logo": "https://1.embedcanaisdetv.com/images/gloobinho.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=nickjr",
-    "id": "nickjr",
-    "category": "Infantil",
-    "name": "Nick Jr.",
-    "logo": "https://1.embedcanaisdetv.com/images/nickjr.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=nickelodeon",
-    "id": "nickelodeon",
-    "category": "Infantil",
-    "name": "Nickelodeon",
-    "logo": "https://1.embedcanaisdetv.com/images/nickelodeon.png"
   },
   {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=tooncast",
@@ -1062,13 +999,6 @@
     "category": "Religiosos",
     "name": "Pai Eterno",
     "logo": "https://vipcanais.net/images/paieterno.png"
-  },
-  {
-    "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=redegospel",
-    "id": "redegospel",
-    "category": "Religiosos",
-    "name": "Rede Gospel",
-    "logo": "https://vipcanais.net/images/redegospel.png"
   },
   {
     "embedUrl": "https://embedcanaisdetv.xyz/e/index.php?canal=redevida",
