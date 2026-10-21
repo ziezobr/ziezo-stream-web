@@ -32,6 +32,21 @@ function ProfileAvatar({avatar,name}: {avatar?:string;name:string}) {
   return <span className={`avatar ${photo?'avatar-photo':`avatar-${color}`}`}>{photo?<img src={avatar} alt=""/>:(name[0]?.toUpperCase()||'Z')}</span>;
 }
 
+function AndroidUpdateBanner(){
+  const [update,setUpdate]=useState<{versionName:string;browserUrl:string}|null>(null);
+  useEffect(()=>{
+    const match=navigator.userAgent.match(/ZiezoAndroid\/(\d+)\.(\d+)\.(\d+)/i);
+    const native=(window as typeof window&{ZiezoAndroid?:unknown}).ZiezoAndroid;
+    if(!match||native)return;
+    const installed=Number(match[1])*10000+Number(match[2])*100+Number(match[3]);
+    fetch(asset('downloads/android-latest.json'),{cache:'no-store'}).then(response=>response.ok?response.json():null).then((data:{versionCode?:number;versionName?:string;browserUrl?:string}|null)=>{
+      if(data?.versionCode&&data.versionCode>installed&&data.versionName&&data.browserUrl)setUpdate({versionName:data.versionName,browserUrl:data.browserUrl});
+    }).catch(()=>{});
+  },[]);
+  if(!update)return null;
+  return <aside className="android-update-web" role="status"><div><strong>Nova versão {update.versionName}</strong><span>Atualize para receber as melhorias e próximas atualizações pelo aplicativo.</span></div><a href={update.browserUrl} target="_blank" rel="noopener noreferrer">Atualizar agora</a></aside>;
+}
+
 function compressAvatar(file:File){return new Promise<string>((resolve,reject)=>{
   if(!file.type.startsWith('image/')){reject(Error('Escolha um arquivo de imagem.'));return;}
   if(file.size>10*1024*1024){reject(Error('A foto deve ter no máximo 10 MB.'));return;}
@@ -219,6 +234,7 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
 
   return <div className={`cinema ${tvMode?'tv-mode':''}`}>
     <a className="skip-link" href="#main">Pular para o conteúdo</a>
+    <AndroidUpdateBanner/>
     {tvMode?<header className="tv-header"><button className="wordmark" aria-label="ZIEZO STREAM — início" onClick={()=>go('home')}><Brand/></button><nav aria-label="Navegação da TV">{navigation.map(([id,label])=><button key={id} aria-current={view===id?'page':undefined} onClick={()=>go(id)}>{label}</button>)}</nav><button onClick={()=>go('search')}>Buscar</button><button onClick={()=>user?setDialog('profiles'):onAuthRequest()}>{user?'Perfis':'Entrar'}</button></header>:<NotchNav className="ziezo-modern-nav" items={navigation.map(([id,label])=>({id,label,icon:id==='home'?Home:id==='movies'?Film:id==='series'?Tv:id==='live'?Tv:id==='downloads'?Download:Bookmark}))} activeId={view} onActiveChange={id=>go(id as View)} logo={<button className="wordmark" aria-label="ZIEZO STREAM — início" onClick={()=>go('home')}><Brand/></button>} rightContent={<div className="modern-actions"><button className="icon-button" aria-label="Buscar filmes e séries" onClick={()=>go('search')}><Search size={19}/></button>{user?<button className="profile-trigger" aria-label="Trocar perfil" onClick={()=>{setDialog('profiles');setProfileForm(null);}}><ProfileAvatar avatar={profile?.avatar} name={profile?.name||user.name}/></button>:<button className="nav-login" onClick={onAuthRequest}>Entrar <ArrowUpRight size={14}/></button>}</div>}/>} 
 
     <main id="main">

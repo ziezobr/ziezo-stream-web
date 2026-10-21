@@ -1,7 +1,8 @@
 {
-  "versionCode": 20300,
-  "versionName": "2.3.0",
-  "apkUrl": "https://ziezobr.github.io/ziezo-stream-web/downloads/ZIEZO-STREAM-Android-2.3.0.apk",
-  "notes": "Layout móvel do player, modo horizontal e atualização pelo próprio aplicativo."
+  "versionCode": 20301,
+  "versionName": "2.3.1",
+  "apkUrl": "https://ziezobr.github.io/ziezo-stream-web/downloads/ZIEZO-STREAM-Android-2.3.1.apk",
+  "browserUrl": "https://github.com/ziezobr/ziezo-stream-web/raw/main/public/downloads/ZIEZO-STREAM-Android-2.3.1.apk",
+  "notes": "Corrige a detecção de atualizações e adiciona aviso para versões antigas do aplicativo."
 }
 
