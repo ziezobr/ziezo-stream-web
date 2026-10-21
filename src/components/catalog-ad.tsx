@@ -16,7 +16,7 @@ export function CatalogAd({blocked}:{blocked:boolean}){
  const [show,setShow]=useState(false);
  useEffect(()=>{alive.current=true;return()=>{alive.current=false;};},[]);
  useEffect(()=>{
-  if(!enabled||blocked||requestedThisDocument||/Electron\//.test(navigator.userAgent)||!navigator.locks)return;
+  if(!enabled||blocked||requestedThisDocument||/Electron\/|ZiezoAndroid\//.test(navigator.userAgent)||!navigator.locks)return;
   const element=anchor.current;if(!element)return;
   const observer=new IntersectionObserver(([entry])=>{inView.current=entry.isIntersecting;});observer.observe(element);
   let disposed=false;
@@ -42,3 +42,4 @@ export function CatalogAd({blocked}:{blocked:boolean}){
  if(!enabled)return null;
  return <div ref={anchor} className="catalog-ad-anchor" hidden={blocked}>{show&&<section className="catalog-ad" aria-label="Publicidade"><span>PUBLICIDADE</span><ins ref={unit} className="adsbygoogle" style={{display:'block'}} data-ad-client={CLIENT} data-ad-slot={SLOT} data-ad-format="horizontal" data-full-width-responsive="true"/></section>}</div>;
 }
+
