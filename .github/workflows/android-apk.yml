@@ -8,14 +8,14 @@ permissions:
   contents: read
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-java@v4
+      - uses: actions/setup-java@v5
         with:
           distribution: temurin
           java-version: 21
-      - uses: android-actions/setup-android@v3
+      - run: '"$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "platforms;android-36" "build-tools;36.0.0"'
       - run: chmod +x gradlew && ./gradlew --no-daemon assembleRelease lintRelease
         working-directory: android
       - uses: actions/upload-artifact@v4
@@ -24,3 +24,4 @@ jobs:
           path: |
             android/app/build/outputs/apk/release/app-release-unsigned.apk
             android/app/build/reports/lint-results-release.html
+

@@ -12,8 +12,9 @@ JDK 21, Android SDK 36 e Build Tools instalados. Configure android/local.propert
 
 ## Assinatura de distribuição
 
-O APK público usa chave de produção privada mantida fora deste repositório. Nunca envie keystore ou senha ao Git. A chave e suas credenciais devem ser preservadas pelo proprietário para futuras atualizações. Use zipalign antes de apksigner sign e confira com apksigner verify --verbose --print-certs. Distribua o APK assinado e SHA256SUMS-Android.txt em uma release separada android-v2.1.0, sem marcar como Latest para preservar o atualizador Windows.
+O APK público usa chave de produção privada mantida fora deste repositório. Nunca envie keystore ou senha ao Git. A chave e suas credenciais devem ser preservadas pelo proprietário para futuras atualizações. Use zipalign antes de apksigner sign e confira com apksigner verify --verbose --print-certs. O APK assinado e SHA256SUMS-Android.txt ficam em public/downloads e são distribuídos diretamente na aba Downloads do site. Não há release pública Android.
 
 ## Validação e limites
 
 Compilação release, Android Lint e assinatura são verificáveis localmente. Não havia dispositivo Android ou emulador conectado durante a preparação. Não foi feita instalação ou teste físico. Não há permissões de câmera, microfone, localização, arquivos, instalação de pacotes nem ponte JavaScript nativa. Conteúdo HTTP e acesso a arquivos no WebView estão desativados.
+
