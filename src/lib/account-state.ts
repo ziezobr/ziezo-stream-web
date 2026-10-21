@@ -4,6 +4,13 @@ const mediaKey=(title:Title)=>`${title.type}-${title.id}`;
 type Profile={id:string;name:string;avatar:string;kids:number};
 type Entry={profileId:string;mediaKey:string;kind:string;position:number;duration:number;updatedAt:number;source?:'embed';episode?:{season:number;episode:number;name?:string}};
 type State={profiles:Profile[];library:Entry[];titles:Title[]};
+const avatarColors=new Set(['lime','blue','rose','violet','orange']);
+function cleanAvatar(value:unknown,fallback='lime'){
+ const avatar=String(value||fallback);
+ if(avatarColors.has(avatar))return avatar;
+ if(/^data:image\/(?:jpeg|png|webp);base64,[a-z0-9+/=]+$/i.test(avatar)&&avatar.length<=150000)return avatar;
+ return fallback;
+}
 export async function accountState(method:string,body:Record<string,unknown>={}){
  if(!supabase)return Response.json({error:'Conexão indisponível.'},{status:503});
  const {data:{user}}=await supabase.auth.getUser();
@@ -18,10 +25,10 @@ export async function accountState(method:string,body:Record<string,unknown>={})
    const profile=state.profiles.find(p=>p.id===body.profileId),action=String(body.action||''),key=String(body.mediaKey||'');
    if(action==='profile.create'){
     if(state.profiles.length>=5)throw Error('Você pode criar até cinco perfis.');
-    state.profiles.push({id:crypto.randomUUID(),name:String(body.name||'Perfil').trim().slice(0,24),avatar:String(body.avatar||'blue'),kids:body.kids?1:0});
+    state.profiles.push({id:crypto.randomUUID(),name:String(body.name||'Perfil').trim().slice(0,24),avatar:cleanAvatar(body.avatar,'blue'),kids:body.kids?1:0});
    }else{
     if(!profile)throw Error('Perfil não encontrado.');
-    if(action==='profile.update'){profile.name=String(body.name||'Perfil').trim().slice(0,24);profile.avatar=String(body.avatar||'lime');profile.kids=body.kids?1:0;}
+    if(action==='profile.update'){profile.name=String(body.name||'Perfil').trim().slice(0,24);profile.avatar=cleanAvatar(body.avatar);profile.kids=body.kids?1:0;}
     else if(action==='profile.delete'){if(profile.id===user.id)throw Error('O perfil principal não pode ser removido.');state.profiles=state.profiles.filter(p=>p.id!==profile.id);state.library=state.library.filter(e=>e.profileId!==profile.id);}
     else{
      if(!/^(movie|tv)-[1-9]\d*$/.test(key))throw Error('Título inválido.');
@@ -47,3 +54,4 @@ export async function accountState(method:string,body:Record<string,unknown>={})
   throw Error('Sua biblioteca mudou. Tente novamente.');
  }catch(error){return Response.json({error:error instanceof Error?error.message:'Não foi possível salvar a biblioteca.'},{status:400});}
 }
+
