@@ -1,1018 +1,1318 @@
 [
   {
-    "embedUrl": "https://ww0.embedtv.cc/24h_chaves",
-    "id": "24h_chaves",
-    "category": "24 horas",
-    "name": "24H Chaves",
-    "logo": "https://img.faz-o-eli.online/24h_chaves.prev.png"
+    "id": "nba-league-pass-6",
+    "name": "NBA League Pass 6",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/nbaleaguepass6.png",
+    "embedUrl": "https://streambetter.lol/canal/nba-league-pass-6"
   },
   {
-    "embedUrl": "https://ww0.embedtv.cc/24h_friends",
-    "id": "24h_friends",
-    "category": "24 horas",
-    "name": "24H Friends",
-    "logo": "https://img.faz-o-eli.online/24h_friends.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/24h_simpsons",
-    "id": "24h_simpsons",
-    "category": "24 horas",
-    "name": "24H Os Simpsons",
-    "logo": "https://img.faz-o-eli.online/24h_simpsons.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/24h_odeiachris",
-    "id": "24h_odeiachris",
-    "category": "24 horas",
-    "name": "24H Todo Mundo Odeia o Cris",
-    "logo": "https://img.faz-o-eli.online/24h_odeiachris.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/bandrj",
-    "id": "bandrj",
-    "category": "Canais Abertos",
-    "name": "Band RJ",
-    "logo": "https://img.faz-o-eli.online/bandrj.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/bandsp",
-    "id": "bandsp",
-    "category": "Canais Abertos",
-    "name": "Band SP",
-    "logo": "https://img.faz-o-eli.online/bandsp.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/cultura",
-    "id": "cultura",
-    "category": "Canais Abertos",
-    "name": "Cultura",
-    "logo": "https://img.faz-o-eli.online/cultura.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globoam",
-    "id": "globoam",
-    "category": "Canais Abertos",
-    "name": "Globo AM",
-    "logo": "https://img.faz-o-eli.online/globoam.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globoce",
-    "id": "globoce",
-    "category": "Canais Abertos",
-    "name": "Globo CE",
-    "logo": "https://img.faz-o-eli.online/globoce.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globodf",
-    "id": "globodf",
-    "category": "Canais Abertos",
-    "name": "Globo DF",
-    "logo": "https://img.faz-o-eli.online/globodf.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globoes",
-    "id": "globoes",
-    "category": "Canais Abertos",
-    "name": "Globo ES",
-    "logo": "https://img.faz-o-eli.online/globoes.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globogo",
-    "id": "globogo",
-    "category": "Canais Abertos",
-    "name": "Globo GO",
-    "logo": "https://img.faz-o-eli.online/globogo.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globomg",
-    "id": "globomg",
-    "category": "Canais Abertos",
-    "name": "Globo MG",
-    "logo": "https://img.faz-o-eli.online/globomg.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globopb",
-    "id": "globopb",
-    "category": "Canais Abertos",
-    "name": "Globo PB",
-    "logo": "https://img.faz-o-eli.online/globopb.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globope",
-    "id": "globope",
-    "category": "Canais Abertos",
-    "name": "Globo PE",
-    "logo": "https://img.faz-o-eli.online/globope.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globorj",
-    "id": "globorj",
-    "category": "Canais Abertos",
-    "name": "Globo RJ",
-    "logo": "https://img.faz-o-eli.online/globorj.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globors",
-    "id": "globors",
-    "category": "Canais Abertos",
-    "name": "Globo RS",
-    "logo": "https://img.faz-o-eli.online/globors.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globosp",
-    "id": "globosp",
-    "category": "Canais Abertos",
+    "id": "globo-sp",
     "name": "Globo SP",
-    "logo": "https://img.faz-o-eli.online/globosp.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/recordgo",
-    "id": "recordgo",
     "category": "Canais Abertos",
-    "name": "Record GO",
-    "logo": "https://img.faz-o-eli.online/recordgo.prev.png"
+    "logo": "https://reidosembeds.online/img/globosp.png",
+    "embedUrl": "https://streambetter.lol/canal/globo-sp"
   },
   {
-    "embedUrl": "https://ww0.embedtv.cc/recordmg",
-    "id": "recordmg",
-    "category": "Canais Abertos",
-    "name": "Record MG",
-    "logo": "https://img.faz-o-eli.online/recordmg.prev.png"
+    "id": "24h-barbie",
+    "name": "24H - Barbie",
+    "category": "24 Horas, Desenhos",
+    "logo": "https://image.tmdb.org/t/p/w780/dj1Dm5KPHAWWqyeDpE7bPFF2lvp.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-barbie"
   },
   {
-    "embedUrl": "https://ww0.embedtv.cc/recordrj",
-    "id": "recordrj",
-    "category": "Canais Abertos",
-    "name": "Record RJ",
-    "logo": "https://img.faz-o-eli.online/recordrj.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/recordsp",
-    "id": "recordsp",
-    "category": "Canais Abertos",
-    "name": "Record SP",
-    "logo": "https://img.faz-o-eli.online/recordsp.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sbtrj",
-    "id": "sbtrj",
-    "category": "Canais Abertos",
-    "name": "SBT RJ",
-    "logo": "https://img.faz-o-eli.online/sbtrj.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sbtsp",
-    "id": "sbtsp",
-    "category": "Canais Abertos",
-    "name": "SBT SP",
-    "logo": "https://img.faz-o-eli.online/sbtsp.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/bandsports",
-    "id": "bandsports",
+    "id": "sportynet-3",
+    "name": "SportyNet 3",
     "category": "Esportes",
-    "name": "Band Sports",
-    "logo": "https://img.faz-o-eli.online/bandsports.prev.png"
+    "logo": "https://cdn.reidoscanais.si/imagens/sportynet.avif",
+    "embedUrl": "https://streambetter.lol/canal/sportynet-3"
   },
   {
-    "embedUrl": "https://ww0.embedtv.cc/caze1",
-    "id": "caze1",
+    "id": "sportynet-2",
+    "name": "SportyNet 2",
     "category": "Esportes",
-    "name": "CazeTV 1",
-    "logo": "https://img.faz-o-eli.online/caze1.prev.png"
+    "logo": "https://cdn.reidoscanais.si/imagens/sportynet.avif",
+    "embedUrl": "https://streambetter.lol/canal/sportynet-2"
   },
   {
-    "embedUrl": "https://ww0.embedtv.cc/caze2",
-    "id": "caze2",
-    "category": "Esportes",
-    "name": "CazeTV 2",
-    "logo": "https://img.faz-o-eli.online/caze2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/caze3",
-    "id": "caze3",
-    "category": "Esportes",
-    "name": "CazeTV 3",
-    "logo": "https://img.faz-o-eli.online/caze3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/combate",
-    "id": "combate",
-    "category": "Esportes",
-    "name": "Combate",
-    "logo": "https://img.faz-o-eli.online/combate.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/espn",
-    "id": "espn",
-    "category": "Esportes",
-    "name": "Espn",
-    "logo": "https://img.faz-o-eli.online/espn.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/espn2",
-    "id": "espn2",
-    "category": "Esportes",
-    "name": "Espn 2",
-    "logo": "https://img.faz-o-eli.online/espn2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/espn3",
-    "id": "espn3",
-    "category": "Esportes",
-    "name": "Espn 3",
-    "logo": "https://img.faz-o-eli.online/espn3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/espn4",
-    "id": "espn4",
-    "category": "Esportes",
-    "name": "Espn 4",
-    "logo": "https://img.faz-o-eli.online/espn4.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/espn5",
-    "id": "espn5",
-    "category": "Esportes",
-    "name": "Espn 5",
-    "logo": "https://img.faz-o-eli.online/espn5.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/espn6",
-    "id": "espn6",
-    "category": "Esportes",
-    "name": "Espn 6",
-    "logo": "https://img.faz-o-eli.online/espn6.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/off",
-    "id": "off",
-    "category": "Esportes",
-    "name": "OFF",
-    "logo": "https://img.faz-o-eli.online/off.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/premiere",
-    "id": "premiere",
-    "category": "Esportes",
-    "name": "Premiere 1",
-    "logo": "https://img.faz-o-eli.online/premiere.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/premiere2",
-    "id": "premiere2",
-    "category": "Esportes",
-    "name": "Premiere 2",
-    "logo": "https://img.faz-o-eli.online/premiere2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/premiere3",
-    "id": "premiere3",
-    "category": "Esportes",
-    "name": "Premiere 3",
-    "logo": "https://img.faz-o-eli.online/premiere3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/premiere4",
-    "id": "premiere4",
-    "category": "Esportes",
-    "name": "Premiere 4",
-    "logo": "https://img.faz-o-eli.online/premiere4.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/premiere5",
-    "id": "premiere5",
-    "category": "Esportes",
-    "name": "Premiere 5",
-    "logo": "https://img.faz-o-eli.online/premiere5.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/premiere6",
-    "id": "premiere6",
-    "category": "Esportes",
-    "name": "Premiere 6",
-    "logo": "https://img.faz-o-eli.online/premiere6.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/premiere7",
-    "id": "premiere7",
-    "category": "Esportes",
-    "name": "Premiere 7",
-    "logo": "https://img.faz-o-eli.online/premiere7.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/premiere8",
-    "id": "premiere8",
-    "category": "Esportes",
-    "name": "Premiere 8",
-    "logo": "https://img.faz-o-eli.online/premiere8.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_abola",
-    "id": "pt_abola",
-    "category": "Esportes",
-    "name": "PT - A Bola",
-    "logo": "https://img.faz-o-eli.online/pt_abola.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_benficatv",
-    "id": "pt_benficatv",
-    "category": "Esportes",
-    "name": "PT - Benfica TV",
-    "logo": "https://img.faz-o-eli.online/pt_benficatv.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_canal11",
-    "id": "pt_canal11",
-    "category": "Esportes",
-    "name": "PT - Canal 11",
-    "logo": "https://img.faz-o-eli.online/pt_canal11.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_eleven1",
-    "id": "pt_eleven1",
-    "category": "Esportes",
-    "name": "PT - Eleven 1",
-    "logo": "https://img.faz-o-eli.online/pt_eleven1.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_eleven2",
-    "id": "pt_eleven2",
-    "category": "Esportes",
-    "name": "PT - Eleven 2",
-    "logo": "https://img.faz-o-eli.online/pt_eleven2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_eleven3",
-    "id": "pt_eleven3",
-    "category": "Esportes",
-    "name": "PT - Eleven 3",
-    "logo": "https://img.faz-o-eli.online/pt_eleven3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_sportv1",
-    "id": "pt_sportv1",
-    "category": "Esportes",
-    "name": "PT - Sporttv 1",
-    "logo": "https://img.faz-o-eli.online/pt_sportv1.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_sportv2",
-    "id": "pt_sportv2",
-    "category": "Esportes",
-    "name": "PT - Sporttv 2",
-    "logo": "https://img.faz-o-eli.online/pt_sportv2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_sportv3",
-    "id": "pt_sportv3",
-    "category": "Esportes",
-    "name": "PT - Sporttv 3",
-    "logo": "https://img.faz-o-eli.online/pt_sportv3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_sportv4",
-    "id": "pt_sportv4",
-    "category": "Esportes",
-    "name": "PT - Sporttv 4",
-    "logo": "https://img.faz-o-eli.online/pt_sportv4.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_sportv5",
-    "id": "pt_sportv5",
-    "category": "Esportes",
-    "name": "PT - Sporttv 5",
-    "logo": "https://img.faz-o-eli.online/pt_sportv5.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_sportv6",
-    "id": "pt_sportv6",
-    "category": "Esportes",
-    "name": "PT - Sporttv 6",
-    "logo": "https://img.faz-o-eli.online/pt_sportv6.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/pt_sportv7",
-    "id": "pt_sportv7",
-    "category": "Esportes",
-    "name": "PT - Sporttv 7",
-    "logo": "https://img.faz-o-eli.online/pt_sportv7.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sportv",
-    "id": "sportv",
-    "category": "Esportes",
-    "name": "Sportv",
-    "logo": "https://img.faz-o-eli.online/sportv.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sportv2",
-    "id": "sportv2",
-    "category": "Esportes",
-    "name": "Sportv 2",
-    "logo": "https://img.faz-o-eli.online/sportv2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sportv3",
-    "id": "sportv3",
-    "category": "Esportes",
-    "name": "Sportv 3",
-    "logo": "https://img.faz-o-eli.online/sportv3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sportv4",
-    "id": "sportv4",
-    "category": "Esportes",
-    "name": "Sportv 4",
-    "logo": "https://img.faz-o-eli.online/sportv4.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sportynet",
-    "id": "sportynet",
-    "category": "Esportes",
-    "name": "SportyNet",
-    "logo": "https://img.faz-o-eli.online/sportynet.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sportynetplus1",
-    "id": "sportynetplus1",
-    "category": "Esportes",
-    "name": "SportyNet+ 1",
-    "logo": "https://img.faz-o-eli.online/sportynetplus1.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sportynetplus2",
-    "id": "sportynetplus2",
-    "category": "Esportes",
-    "name": "SportyNet+ 2",
-    "logo": "https://img.faz-o-eli.online/sportynetplus2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sportynetplus3",
-    "id": "sportynetplus3",
-    "category": "Esportes",
-    "name": "SportyNet+ 3",
-    "logo": "https://img.faz-o-eli.online/sportynetplus3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/ufcfightpass",
-    "id": "ufcfightpass",
-    "category": "Esportes",
-    "name": "UFC Fight Pass",
-    "logo": "https://img.faz-o-eli.online/ufcfightpass.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/xsports",
-    "id": "xsports",
-    "category": "Esportes",
-    "name": "XSports",
-    "logo": "https://img.faz-o-eli.online/xsports.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/adultswim",
-    "id": "adultswim",
-    "category": "Filmes e Séries",
-    "name": "Adult Swim",
-    "logo": "https://img.faz-o-eli.online/adultswim.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/ae",
-    "id": "ae",
-    "category": "Filmes e Séries",
-    "name": "AE",
-    "logo": "https://img.faz-o-eli.online/ae.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/amc",
-    "id": "amc",
-    "category": "Filmes e Séries",
-    "name": "AMC",
-    "logo": "https://img.faz-o-eli.online/amc.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/axn",
-    "id": "axn",
-    "category": "Filmes e Séries",
-    "name": "AXN",
-    "logo": "https://img.faz-o-eli.online/axn.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/cinemax",
-    "id": "cinemax",
-    "category": "Filmes e Séries",
-    "name": "Cinemax",
-    "logo": "https://img.faz-o-eli.online/cinemax.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/hbo",
-    "id": "hbo",
-    "category": "Filmes e Séries",
-    "name": "HBO",
-    "logo": "https://img.faz-o-eli.online/hbo.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/hbo2",
-    "id": "hbo2",
-    "category": "Filmes e Séries",
-    "name": "HBO 2",
-    "logo": "https://img.faz-o-eli.online/hbo2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/hbofamily",
-    "id": "hbofamily",
-    "category": "Filmes e Séries",
-    "name": "HBO Family",
-    "logo": "https://img.faz-o-eli.online/hbofamily.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/hbomundi",
-    "id": "hbomundi",
-    "category": "Filmes e Séries",
-    "name": "HBO Mundi",
-    "logo": "https://img.faz-o-eli.online/hbomundi.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/hboplus",
-    "id": "hboplus",
-    "category": "Filmes e Séries",
-    "name": "HBO Plus",
-    "logo": "https://img.faz-o-eli.online/hboplus.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/hbopop",
-    "id": "hbopop",
-    "category": "Filmes e Séries",
-    "name": "HBO POP",
-    "logo": "https://img.faz-o-eli.online/hbopop.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/hboxtreme",
-    "id": "hboxtreme",
-    "category": "Filmes e Séries",
-    "name": "HBO Xtreme",
-    "logo": "https://img.faz-o-eli.online/hboxtreme.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/megapix",
-    "id": "megapix",
-    "category": "Filmes e Séries",
-    "name": "Megapix",
-    "logo": "https://img.faz-o-eli.online/megapix.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/sonychannel",
-    "id": "sonychannel",
-    "category": "Filmes e Séries",
-    "name": "Sony Channel",
-    "logo": "https://img.faz-o-eli.online/sonychannel.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/space",
-    "id": "space",
-    "category": "Filmes e Séries",
-    "name": "Space",
-    "logo": "https://img.faz-o-eli.online/space.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/starchannel",
-    "id": "starchannel",
-    "category": "Filmes e Séries",
-    "name": "Star Channel",
-    "logo": "https://img.faz-o-eli.online/starchannel.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/studiouniversal",
-    "id": "studiouniversal",
-    "category": "Filmes e Séries",
-    "name": "Studio Universal",
-    "logo": "https://img.faz-o-eli.online/studiouniversal.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/tcm",
-    "id": "tcm",
-    "category": "Filmes e Séries",
-    "name": "TCM",
-    "logo": "https://img.faz-o-eli.online/tcm.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/telecineaction",
-    "id": "telecineaction",
-    "category": "Filmes e Séries",
-    "name": "Telecine Action",
-    "logo": "https://img.faz-o-eli.online/telecineaction.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/telecinecult",
-    "id": "telecinecult",
-    "category": "Filmes e Séries",
-    "name": "Telecine Cult",
-    "logo": "https://img.faz-o-eli.online/telecinecult.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/telecinefun",
-    "id": "telecinefun",
-    "category": "Filmes e Séries",
-    "name": "Telecine Fun",
-    "logo": "https://img.faz-o-eli.online/telecinefun.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/telecinepipoca",
-    "id": "telecinepipoca",
-    "category": "Filmes e Séries",
-    "name": "Telecine Pipoca",
-    "logo": "https://img.faz-o-eli.online/telecinepipoca.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/telecinepremium",
-    "id": "telecinepremium",
-    "category": "Filmes e Séries",
-    "name": "Telecine Premium",
-    "logo": "https://img.faz-o-eli.online/telecinepremium.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/telecinetouch",
-    "id": "telecinetouch",
-    "category": "Filmes e Séries",
-    "name": "Telecine Touch",
-    "logo": "https://img.faz-o-eli.online/telecinetouch.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/tnt",
-    "id": "tnt",
-    "category": "Filmes e Séries",
-    "name": "TNT",
-    "logo": "https://img.faz-o-eli.online/tnt.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/tntnovelas",
-    "id": "tntnovelas",
-    "category": "Filmes e Séries",
-    "name": "TNT Novelas",
-    "logo": "https://img.faz-o-eli.online/tntnovelas.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/tntseries",
-    "id": "tntseries",
-    "category": "Filmes e Séries",
-    "name": "TNT Series",
-    "logo": "https://img.faz-o-eli.online/tntseries.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/universaltv",
-    "id": "universaltv",
-    "category": "Filmes e Séries",
-    "name": "Universal",
-    "logo": "https://img.faz-o-eli.online/universaltv.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/warnerchannel",
-    "id": "warnerchannel",
-    "category": "Filmes e Séries",
-    "name": "Warnerchannel",
-    "logo": "https://img.faz-o-eli.online/warnerchannel.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/24h_dragonball",
-    "id": "24h_dragonball",
-    "category": "Infantil",
-    "name": "24H Dragon Ball Z",
-    "logo": "https://img.faz-o-eli.online/24h_dragonball.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/24h_naruto",
-    "id": "24h_naruto",
-    "category": "Infantil",
-    "name": "24H Naruto Clássico",
-    "logo": "https://img.faz-o-eli.online/24h_naruto.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/24h_picapau",
-    "id": "24h_picapau",
-    "category": "Infantil",
-    "name": "24H Pica Pau",
-    "logo": "https://img.faz-o-eli.online/24h_picapau.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/cartoonnetwork",
-    "id": "cartoonnetwork",
-    "category": "Infantil",
-    "name": "Cartoon Network",
-    "logo": "https://img.faz-o-eli.online/cartoonnetwork.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/cartoonito",
-    "id": "cartoonito",
-    "category": "Infantil",
-    "name": "Cartoonito",
-    "logo": "https://img.faz-o-eli.online/cartoonito.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/discoverykids",
-    "id": "discoverykids",
-    "category": "Infantil",
-    "name": "Discovery Kids",
-    "logo": "https://img.faz-o-eli.online/discoverykids.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/gloob",
-    "id": "gloob",
-    "category": "Infantil",
-    "name": "Gloob",
-    "logo": "https://img.faz-o-eli.online/gloob.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/bandnews",
-    "id": "bandnews",
-    "category": "Notícias",
-    "name": "Band News",
-    "logo": "https://img.faz-o-eli.online/bandnews.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/cnnbrasil",
-    "id": "cnnbrasil",
-    "category": "Notícias",
-    "name": "CNN Brasil",
-    "logo": "https://img.faz-o-eli.online/cnnbrasil.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globonews",
-    "id": "globonews",
-    "category": "Notícias",
-    "name": "Globo News",
-    "logo": "https://img.faz-o-eli.online/globonews.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/aparecida",
-    "id": "aparecida",
-    "category": "Religiosos",
-    "name": "Aparecida",
-    "logo": "https://img.faz-o-eli.online/aparecida.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/cancaonova",
-    "id": "cancaonova",
-    "category": "Religiosos",
-    "name": "Canção Nova",
-    "logo": "https://img.faz-o-eli.online/cancaonova.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/redevida",
-    "id": "redevida",
-    "category": "Religiosos",
-    "name": "Rede Vida",
-    "logo": "https://img.faz-o-eli.online/redevida.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/tvpaieterno",
-    "id": "tvpaieterno",
-    "category": "Religiosos",
-    "name": "TV Pai Eterno",
-    "logo": "https://img.faz-o-eli.online/tvpaieterno.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/disneyplus1",
-    "id": "disneyplus1",
-    "category": "Streaming",
-    "name": "Disney Plus 1",
-    "logo": "https://img.faz-o-eli.online/disneyplus1.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/disneyplus2",
-    "id": "disneyplus2",
-    "category": "Streaming",
-    "name": "Disney Plus 2",
-    "logo": "https://img.faz-o-eli.online/disneyplus2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/disneyplus3",
-    "id": "disneyplus3",
-    "category": "Streaming",
-    "name": "Disney Plus 3",
-    "logo": "https://img.faz-o-eli.online/disneyplus3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/max1",
-    "id": "max1",
-    "category": "Streaming",
-    "name": "Max - 1",
-    "logo": "https://img.faz-o-eli.online/max1.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/max2",
-    "id": "max2",
-    "category": "Streaming",
-    "name": "Max - 2",
-    "logo": "https://img.faz-o-eli.online/max2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/max3",
-    "id": "max3",
-    "category": "Streaming",
-    "name": "Max - 3",
-    "logo": "https://img.faz-o-eli.online/max3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/paramountplus",
-    "id": "paramountplus",
-    "category": "Streaming",
-    "name": "Paramount Plus",
-    "logo": "https://img.faz-o-eli.online/paramountplus.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/paramountplus2",
-    "id": "paramountplus2",
-    "category": "Streaming",
-    "name": "Paramount Plus 2",
-    "logo": "https://img.faz-o-eli.online/paramountplus2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/primevideo",
-    "id": "primevideo",
-    "category": "Streaming",
-    "name": "Prime Video",
-    "logo": "https://img.faz-o-eli.online/primevideo.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/primevideo2",
-    "id": "primevideo2",
-    "category": "Streaming",
-    "name": "Prime Video 2",
-    "logo": "https://img.faz-o-eli.online/primevideo2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/primevideo3",
-    "id": "primevideo3",
-    "category": "Streaming",
-    "name": "Prime Video 3",
-    "logo": "https://img.faz-o-eli.online/primevideo3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/primevideo4",
-    "id": "primevideo4",
-    "category": "Streaming",
-    "name": "Prime Video 4",
-    "logo": "https://img.faz-o-eli.online/primevideo4.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/afazenda",
-    "id": "afazenda",
-    "category": "Variedades",
-    "name": "A Fazenda 18 - 1",
-    "logo": "https://img.faz-o-eli.online/afazenda.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/afazenda2",
-    "id": "afazenda2",
-    "category": "Variedades",
-    "name": "A Fazenda 18 - 2",
-    "logo": "https://img.faz-o-eli.online/afazenda2.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/afazenda3",
-    "id": "afazenda3",
-    "category": "Variedades",
-    "name": "A Fazenda 18 - 3",
-    "logo": "https://img.faz-o-eli.online/afazenda3.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/afazenda4",
-    "id": "afazenda4",
-    "category": "Variedades",
-    "name": "A Fazenda 18 - 4",
-    "logo": "https://img.faz-o-eli.online/afazenda4.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/afazenda5",
-    "id": "afazenda5",
-    "category": "Variedades",
-    "name": "A Fazenda 18 - 5",
-    "logo": "https://img.faz-o-eli.online/afazenda5.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/animalplanet",
-    "id": "animalplanet",
-    "category": "Variedades",
-    "name": "Animal Planet",
-    "logo": "https://img.faz-o-eli.online/animalplanet.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/discoverychannel",
-    "id": "discoverychannel",
-    "category": "Variedades",
-    "name": "Discovery Channel",
-    "logo": "https://img.faz-o-eli.online/discoverychannel.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/discoveryhh",
-    "id": "discoveryhh",
-    "category": "Variedades",
-    "name": "Discovery H&amp;H",
-    "logo": "https://img.faz-o-eli.online/discoveryhh.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/discoveryid",
-    "id": "discoveryid",
-    "category": "Variedades",
-    "name": "Discovery ID",
-    "logo": "https://img.faz-o-eli.online/discoveryid.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/discoveryscience",
-    "id": "discoveryscience",
-    "category": "Variedades",
-    "name": "Discovery Science",
-    "logo": "https://img.faz-o-eli.online/discoveryscience.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/discoverytheather",
-    "id": "discoverytheather",
-    "category": "Variedades",
-    "name": "Discovery Theater",
-    "logo": "https://img.faz-o-eli.online/discoverytheather.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/discoveryturbo",
-    "id": "discoveryturbo",
-    "category": "Variedades",
-    "name": "Discovery Turbo",
-    "logo": "https://img.faz-o-eli.online/discoveryturbo.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/discoveryworld",
-    "id": "discoveryworld",
-    "category": "Variedades",
-    "name": "Discovery World",
-    "logo": "https://img.faz-o-eli.online/discoveryworld.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/foodnetwork",
-    "id": "foodnetwork",
-    "category": "Variedades",
-    "name": "Food Network",
-    "logo": "https://img.faz-o-eli.online/foodnetwork.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/globonovelas",
-    "id": "globonovelas",
-    "category": "Variedades",
-    "name": "Globo Novelas",
-    "logo": "https://img.faz-o-eli.online/globonovelas.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/gnt",
-    "id": "gnt",
-    "category": "Variedades",
-    "name": "GNT",
-    "logo": "https://img.faz-o-eli.online/gnt.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/hgtv",
-    "id": "hgtv",
-    "category": "Variedades",
-    "name": "HGTV",
-    "logo": "https://img.faz-o-eli.online/hgtv.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/history",
-    "id": "history",
-    "category": "Variedades",
-    "name": "History",
-    "logo": "https://img.faz-o-eli.online/history.prev.png"
-  },
-  {
-    "embedUrl": "https://ww0.embedtv.cc/history2",
-    "id": "history2",
-    "category": "Variedades",
+    "id": "history-2",
     "name": "History 2",
-    "logo": "https://img.faz-o-eli.online/history2.prev.png"
+    "category": "Documentários",
+    "logo": "https://cdn.reidoscanais.si/imagens/history2.png",
+    "embedUrl": "https://streambetter.lol/canal/history-2"
   },
   {
-    "embedUrl": "https://ww0.embedtv.cc/masterchef",
-    "id": "masterchef",
+    "id": "hgtv",
+    "name": "HGTV",
     "category": "Variedades",
-    "name": "Master chef",
-    "logo": "https://img.faz-o-eli.online/masterchef.prev.png"
+    "logo": "https://cdn.reidoscanais.si/imagens/hgtv.png",
+    "embedUrl": "https://streambetter.lol/canal/hgtv"
   },
   {
-    "embedUrl": "https://ww0.embedtv.cc/mtv",
-    "id": "mtv",
+    "id": "fish-tv",
+    "name": "Fish TV",
     "category": "Variedades",
-    "name": "MTV",
-    "logo": "https://img.faz-o-eli.online/mtv.prev.png"
+    "logo": "https://cdn.reidoscanais.si/imagens/fishtv.png",
+    "embedUrl": "https://streambetter.lol/canal/fish-tv"
   },
   {
-    "embedUrl": "https://ww0.embedtv.cc/multishow",
-    "id": "multishow",
+    "id": "e",
+    "name": "E!",
     "category": "Variedades",
-    "name": "Multishow",
-    "logo": "https://img.faz-o-eli.online/multishow.prev.png"
+    "logo": "https://cdn.reidoscanais.si/imagens/e.png",
+    "embedUrl": "https://streambetter.lol/canal/e"
   },
   {
-    "embedUrl": "https://ww0.embedtv.cc/tlc",
+    "id": "discovery-turbo",
+    "name": "Discovery Turbo",
+    "category": "Documentários",
+    "logo": "https://cdn.reidoscanais.si/imagens/discoveryturbo.png",
+    "embedUrl": "https://streambetter.lol/canal/discovery-turbo"
+  },
+  {
+    "id": "discovery-theater",
+    "name": "Discovery Theater",
+    "category": "Documentários",
+    "logo": "https://cdn.reidoscanais.si/imagens/discoverytheater.png",
+    "embedUrl": "https://streambetter.lol/canal/discovery-theater"
+  },
+  {
+    "id": "discovery-world",
+    "name": "Discovery World",
+    "category": "Documentários",
+    "logo": "https://cdn.reidoscanais.si/imagens/discoveryworld.png",
+    "embedUrl": "https://streambetter.lol/canal/discovery-world"
+  },
+  {
+    "id": "discovery-id",
+    "name": "Discovery ID",
+    "category": "Documentários",
+    "logo": "https://cdn.reidoscanais.si/imagens/discoveryid.png",
+    "embedUrl": "https://streambetter.lol/canal/discovery-id"
+  },
+  {
+    "id": "discovery-home-e-health",
+    "name": "Discovery Home e Health",
+    "category": "Documentários",
+    "logo": "https://cdn.reidoscanais.si/imagens/discoveryheh.webp",
+    "embedUrl": "https://streambetter.lol/canal/discovery-home-e-health"
+  },
+  {
+    "id": "curta",
+    "name": "Curta!",
+    "category": "Variedades",
+    "logo": "https://cdn.reidoscanais.si/imagens/curta.png",
+    "embedUrl": "https://streambetter.lol/canal/curta"
+  },
+  {
+    "id": "band-news",
+    "name": "Band News",
+    "category": "Notícias",
+    "logo": "https://cdn.reidoscanais.si/imagens/bandnews.png",
+    "embedUrl": "https://streambetter.lol/canal/band-news"
+  },
+  {
+    "id": "comedy-central",
+    "name": "Comedy Central",
+    "category": "Variedades",
+    "logo": "https://maintech.top/logosam/variedades/cc.png",
+    "embedUrl": "https://streambetter.lol/canal/comedy-central"
+  },
+  {
+    "id": "syfy",
+    "name": "Syfy",
+    "category": "Séries",
+    "logo": "https://maintech.top/logosam/filmeseseries/syfy.png",
+    "embedUrl": "https://streambetter.lol/canal/syfy"
+  },
+  {
+    "id": "paramount-channel",
+    "name": "Paramount Channel",
+    "category": "Filmes",
+    "logo": "https://maintech.top/logosam/filmeseseries/paramount.png",
+    "embedUrl": "https://streambetter.lol/canal/paramount-channel"
+  },
+  {
+    "id": "tnt-filmes",
+    "name": "TNT Filmes",
+    "category": "Filmes",
+    "logo": "https://maintech.top/logosam/filmeseseries/tnt.png",
+    "embedUrl": "https://streambetter.lol/canal/tnt-filmes"
+  },
+  {
+    "id": "tnt-sports",
+    "name": "TNT Sports",
+    "category": "Esportes",
+    "logo": "",
+    "embedUrl": "https://streambetter.lol/canal/tnt-sports"
+  },
+  {
+    "id": "24h-zorra-total",
+    "name": "24H - Zorra Total",
+    "category": "24 Horas, Variedades",
+    "logo": "https://image.tmdb.org/t/p/w780/fFRO6OzIcWb3aqG3144L4LBkoJU.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-zorra-total"
+  },
+  {
+    "id": "24h-south-park",
+    "name": "24H - South Park",
+    "category": "24 Horas, Desenhos",
+    "logo": "https://image.tmdb.org/t/p/w780/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-south-park"
+  },
+  {
+    "id": "24h-sobrenatural",
+    "name": "24H - Sobrenatural",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w780/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-sobrenatural"
+  },
+  {
+    "id": "24h-os-simpsons",
+    "name": "24H - Os Simpsons",
+    "category": "24 Horas, Desenhos",
+    "logo": "https://image.tmdb.org/t/p/w780/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-os-simpsons"
+  },
+  {
+    "id": "24h-lucifer",
+    "name": "24H - Lucifer",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w780/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-lucifer"
+  },
+  {
+    "id": "24h-grey-s-anatomy",
+    "name": "24H - Grey's Anatomy",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-grey-s-anatomy"
+  },
+  {
+    "id": "24h-diarios-de-um-vampiro",
+    "name": "24H - Diários de um Vampiro",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w780/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-diarios-de-um-vampiro"
+  },
+  {
+    "id": "24h-de-ferias-com-o-ex",
+    "name": "24H - De Férias com o Ex",
+    "category": "24 Horas, Reality",
+    "logo": "https://image.tmdb.org/t/p/w780/mseJaOiG0sCbgSIexWJkxqT6bcI.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-de-ferias-com-o-ex"
+  },
+  {
+    "id": "24h-007",
+    "name": "24H - 007",
+    "category": "24 Horas, Filmes",
+    "logo": "https://image.tmdb.org/t/p/w780/dOSECZImeyZldoq0ObieBE0lwie.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-007"
+  },
+  {
+    "id": "24h-breaking-bad",
+    "name": "24H - Breaking Bad",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w780/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-breaking-bad"
+  },
+  {
+    "id": "24h-bob-esponja",
+    "name": "24H - Bob Esponja",
+    "category": "24 Horas, Desenhos",
+    "logo": "https://image.tmdb.org/t/p/w780/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-bob-esponja"
+  },
+  {
+    "id": "24h-beyblade",
+    "name": "24H - Beyblade",
+    "category": "24 Horas, Desenhos, Anime",
+    "logo": "https://image.tmdb.org/t/p/w780/9feA6Kd1G456nq2XrDqpDQpFlcG.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-beyblade"
+  },
+  {
+    "id": "24h-ben-10",
+    "name": "24H - Ben 10",
+    "category": "24 Horas, Desenhos",
+    "logo": "https://image.tmdb.org/t/p/w780/v5hLUEpbn3G3oLXLdF7lFikDivb.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-ben-10"
+  },
+  {
+    "id": "24h-looney-tunes",
+    "name": "24H - Looney Tunes",
+    "category": "24 Horas, Desenhos",
+    "logo": "https://image.tmdb.org/t/p/w780/34Tq9DVH9cTMRLBJqsDEovZuRlT.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-looney-tunes"
+  },
+  {
+    "id": "24h-pokemon",
+    "name": "24H - Pokémon",
+    "category": "24 Horas, Desenhos, Anime",
+    "logo": "https://image.tmdb.org/t/p/w780/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-pokemon"
+  },
+  {
+    "id": "24h-a-casa-do-dragao",
+    "name": "24H - A Casa do Dragão",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-a-casa-do-dragao"
+  },
+  {
+    "id": "amc-series",
+    "name": "AMC Séries",
+    "category": "Séries",
+    "logo": "https://vipcanais.net/images/amcseries.png",
+    "embedUrl": "https://streambetter.lol/canal/amc-series"
+  },
+  {
+    "id": "appletv-6",
+    "name": "AppleTV 6",
+    "category": "Esportes",
+    "logo": "https://vipcanais.net/images/appletv1.png",
+    "embedUrl": "https://streambetter.lol/canal/appletv-6"
+  },
+  {
+    "id": "appletv-5",
+    "name": "AppleTV 5",
+    "category": "Esportes",
+    "logo": "https://vipcanais.net/images/appletv1.png",
+    "embedUrl": "https://streambetter.lol/canal/appletv-5"
+  },
+  {
+    "id": "appletv-4",
+    "name": "AppleTV 4",
+    "category": "Esportes",
+    "logo": "https://vipcanais.net/images/appletv1.png",
+    "embedUrl": "https://streambetter.lol/canal/appletv-4"
+  },
+  {
+    "id": "appletv-3",
+    "name": "AppleTV 3",
+    "category": "Esportes",
+    "logo": "https://vipcanais.net/images/appletv1.png",
+    "embedUrl": "https://streambetter.lol/canal/appletv-3"
+  },
+  {
+    "id": "appletv-2",
+    "name": "AppleTV 2",
+    "category": "Esportes",
+    "logo": "https://1.embedcanaisdetv.com/images/appletv1.png",
+    "embedUrl": "https://streambetter.lol/canal/appletv-2"
+  },
+  {
+    "id": "hbo-max-4",
+    "name": "HBO Max 4",
+    "category": "Filmes",
+    "logo": "https://1.embedcanaisdetv.com/images/max.png",
+    "embedUrl": "https://streambetter.lol/canal/hbo-max-4"
+  },
+  {
+    "id": "24h-largados-e-pelados",
+    "name": "24H - Largados e Pelados",
+    "category": "24 Horas, Reality",
+    "logo": "https://image.tmdb.org/t/p/w342/g1Cw7tYHyqO6d5mJQJ7P7jGkRhr.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-largados-e-pelados"
+  },
+  {
+    "id": "24h-turma-da-monica",
+    "name": "24H - Turma da Mônica",
+    "category": "24 Horas, Desenhos",
+    "logo": "https://image.tmdb.org/t/p/w342/jsI9PztwfMBE9LyJqPkWJOAvHD6.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-turma-da-monica"
+  },
+  {
+    "id": "24h-reacher",
+    "name": "24H - Reacher",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-reacher"
+  },
+  {
+    "id": "24h-the-big-bang-theory",
+    "name": "24H - The Big Bang Theory",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w342/1oODZKc1dpQZvtZPaZVWR11dzEI.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-the-big-bang-theory"
+  },
+  {
+    "id": "24h-a-grande-familia",
+    "name": "24H - A Grande Família",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w342/draJzGrnfB8gEqCGJrPhNORu0nz.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-a-grande-familia"
+  },
+  {
+    "id": "24h-dois-homens-e-meio",
+    "name": "24H - Dois Homens e Meio",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w342/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-dois-homens-e-meio"
+  },
+  {
+    "id": "24h-eu-a-patroa-e-as-criancas",
+    "name": "24H - Eu, a Patroa e as Crianças",
+    "category": "24 Horas, Séries",
+    "logo": "https://image.tmdb.org/t/p/w342/huMehRjXBkFkO9BWPly1635y0J0.jpg",
+    "embedUrl": "https://streambetter.lol/canal/24h-eu-a-patroa-e-as-criancas"
+  },
+  {
+    "id": "a-fazenda-8",
+    "name": "A Fazenda 8",
+    "category": "Reality",
+    "logo": "https://reidosembeds.online/img/afazenda.png",
+    "embedUrl": "https://streambetter.lol/canal/a-fazenda-8"
+  },
+  {
+    "id": "a-fazenda-7",
+    "name": "A Fazenda 7",
+    "category": "Reality",
+    "logo": "https://reidosembeds.online/img/afazenda.png",
+    "embedUrl": "https://streambetter.lol/canal/a-fazenda-7"
+  },
+  {
+    "id": "a-fazenda-6",
+    "name": "A Fazenda 6",
+    "category": "Reality",
+    "logo": "https://reidosembeds.online/img/afazenda.png",
+    "embedUrl": "https://streambetter.lol/canal/a-fazenda-6"
+  },
+  {
+    "id": "a-fazenda-5",
+    "name": "A Fazenda 5",
+    "category": "Reality",
+    "logo": "https://reidosembeds.online/img/afazenda.png",
+    "embedUrl": "https://streambetter.lol/canal/a-fazenda-5"
+  },
+  {
+    "id": "a-fazenda-4",
+    "name": "A Fazenda 4",
+    "category": "Reality",
+    "logo": "https://reidosembeds.online/img/afazenda.png",
+    "embedUrl": "https://streambetter.lol/canal/a-fazenda-4"
+  },
+  {
+    "id": "a-fazenda-3",
+    "name": "A Fazenda 3",
+    "category": "Reality",
+    "logo": "https://reidosembeds.online/img/afazenda.png",
+    "embedUrl": "https://streambetter.lol/canal/a-fazenda-3"
+  },
+  {
+    "id": "a-fazenda-2",
+    "name": "A Fazenda 2",
+    "category": "Reality",
+    "logo": "https://reidosembeds.online/img/afazenda.png",
+    "embedUrl": "https://streambetter.lol/canal/a-fazenda-2"
+  },
+  {
+    "id": "a-fazenda-1",
+    "name": "A Fazenda 1",
+    "category": "Reality",
+    "logo": "https://reidosembeds.online/img/afazenda.png",
+    "embedUrl": "https://streambetter.lol/canal/a-fazenda-1"
+  },
+  {
+    "id": "premiere-5",
+    "name": "Premiere 5",
+    "category": "Outros",
+    "logo": "https://cdn.reidoscanais.st/imagens/premiere.png",
+    "embedUrl": "https://streambetter.lol/canal/premiere-5"
+  },
+  {
+    "id": "premiere-8",
+    "name": "Premiere 8",
+    "category": "Outros",
+    "logo": "https://cdn.reidoscanais.st/imagens/premiere.png",
+    "embedUrl": "https://streambetter.lol/canal/premiere-8"
+  },
+  {
+    "id": "premiere-7",
+    "name": "Premiere 7",
+    "category": "Outros",
+    "logo": "https://cdn.reidoscanais.st/imagens/premiere.png",
+    "embedUrl": "https://streambetter.lol/canal/premiere-7"
+  },
+  {
+    "id": "premiere-6",
+    "name": "Premiere 6",
+    "category": "Outros",
+    "logo": "https://cdn.reidoscanais.st/imagens/premiere.png",
+    "embedUrl": "https://streambetter.lol/canal/premiere-6"
+  },
+  {
+    "id": "premiere-4",
+    "name": "Premiere 4",
+    "category": "Outros",
+    "logo": "https://cdn.reidoscanais.st/imagens/premiere.png",
+    "embedUrl": "https://streambetter.lol/canal/premiere-4"
+  },
+  {
+    "id": "premiere-3",
+    "name": "Premiere 3",
+    "category": "Outros",
+    "logo": "https://cdn.reidoscanais.st/imagens/premiere.png",
+    "embedUrl": "https://streambetter.lol/canal/premiere-3"
+  },
+  {
+    "id": "premiere-2",
+    "name": "Premiere 2",
+    "category": "Outros",
+    "logo": "https://cdn.reidoscanais.st/imagens/premiere.png",
+    "embedUrl": "https://streambetter.lol/canal/premiere-2"
+  },
+  {
+    "id": "modo-viagem",
+    "name": "Modo Viagem",
+    "category": "Outros",
+    "logo": "https://cdn.reidoscanais.st/imagens/modoviagem.svg",
+    "embedUrl": "https://streambetter.lol/canal/modo-viagem"
+  },
+  {
+    "id": "canal-brasil",
+    "name": "Canal Brasil",
+    "category": "Outros",
+    "logo": "https://cdn.reidoscanais.st/imagens/canalbrasil.png",
+    "embedUrl": "https://streambetter.lol/canal/canal-brasil"
+  },
+  {
+    "id": "canal-off",
+    "name": "Canal OFF",
+    "category": "Outros",
+    "logo": "https://cdn.reidoscanais.st/imagens/canaloff.png",
+    "embedUrl": "https://streambetter.lol/canal/canal-off"
+  },
+  {
+    "id": "24h-todo-mundo-odeia-o-chris",
+    "name": "24H - Todo mundo odeia o Chris",
+    "category": "24 Horas, Séries",
+    "logo": "https://reidosembeds.online/img/24h-todo-mundo-odeia-o-chris.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-todo-mundo-odeia-o-chris"
+  },
+  {
+    "id": "24h-space-today",
+    "name": "24H - Space Today",
+    "category": "24 Horas, Variedades",
+    "logo": "https://reidosembeds.online/img/24h-spacetoday.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-space-today"
+  },
+  {
+    "id": "24h-os-jetsons",
+    "name": "24H - Os Jetsons",
+    "category": "24 Horas, Desenhos",
+    "logo": "https://reidosembeds.online/img/24h-os-jetsons.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-os-jetsons"
+  },
+  {
+    "id": "24h-naruto",
+    "name": "24H - Naruto",
+    "category": "24 Horas, Anime",
+    "logo": "https://reidosembeds.online/img/24h-naruto.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-naruto"
+  },
+  {
+    "id": "24h-mr-bean",
+    "name": "24H - Mr. Bean",
+    "category": "24 Horas, Séries",
+    "logo": "https://reidosembeds.online/img/24h-mr-bean.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-mr-bean"
+  },
+  {
+    "id": "24h-masterchef-brasil",
+    "name": "24H - Masterchef Brasil",
+    "category": "24 Horas, Reality, Variedades",
+    "logo": "https://reidosembeds.online/img/24h-master-cheff-brasil.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-masterchef-brasil"
+  },
+  {
+    "id": "24h-irmao-do-jorel",
+    "name": "24H - Irmão do Jorel",
+    "category": "24 Horas, Desenhos",
+    "logo": "https://reidosembeds.online/img/24h-irmao-do-jorel.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-irmao-do-jorel"
+  },
+  {
+    "id": "24h-invencivel",
+    "name": "24H - Invencivel",
+    "category": "24 Horas, Desenhos",
+    "logo": "https://reidosembeds.online/img/24h-invencivel.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-invencivel"
+  },
+  {
+    "id": "24h-dragon-ball-z",
+    "name": "24H - Dragon Ball Z",
+    "category": "24 Horas, Desenhos, Anime",
+    "logo": "https://reidosembeds.online/img/24h-dragon-ball-z.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-dragon-ball-z"
+  },
+  {
+    "id": "24h-chaves",
+    "name": "24H - Chaves",
+    "category": "24 Horas",
+    "logo": "https://reidosembeds.online/img/24h-chaves.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-chaves"
+  },
+  {
+    "id": "24h-chapolin",
+    "name": "24H - Chapolin",
+    "category": "24 Horas",
+    "logo": "https://reidosembeds.online/img/24h-chapolin.png",
+    "embedUrl": "https://streambetter.lol/canal/24h-chapolin"
+  },
+  {
+    "id": "xtreme-tv",
+    "name": "Xtreme TV",
+    "category": "Séries",
+    "logo": "https://reidosembeds.online/img/xtremetv.png",
+    "embedUrl": "https://streambetter.lol/canal/xtreme-tv"
+  },
+  {
+    "id": "xsports",
+    "name": "Xsports",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/xsports.png",
+    "embedUrl": "https://streambetter.lol/canal/xsports"
+  },
+  {
+    "id": "warner",
+    "name": "Warner",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/warner.png",
+    "embedUrl": "https://streambetter.lol/canal/warner"
+  },
+  {
+    "id": "usa",
+    "name": "USA",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/usa.png",
+    "embedUrl": "https://streambetter.lol/canal/usa"
+  },
+  {
+    "id": "universal-tv",
+    "name": "Universal TV",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/universaltv.png",
+    "embedUrl": "https://streambetter.lol/canal/universal-tv"
+  },
+  {
+    "id": "universal-reality",
+    "name": "Universal Reality",
+    "category": "Reality",
+    "logo": "https://reidosembeds.online/img/universalreality.png",
+    "embedUrl": "https://streambetter.lol/canal/universal-reality"
+  },
+  {
+    "id": "ufc-fight-pass",
+    "name": "UFC Fight Pass",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/ufcfightpass.png",
+    "embedUrl": "https://streambetter.lol/canal/ufc-fight-pass"
+  },
+  {
+    "id": "tv-ra-tim-bum",
+    "name": "TV Rá tim bum",
+    "category": "Infantil",
+    "logo": "https://reidosembeds.online/img/tvratimbum.png",
+    "embedUrl": "https://streambetter.lol/canal/tv-ra-tim-bum"
+  },
+  {
+    "id": "tv-kidmais",
+    "name": "TV KidMais",
+    "category": "Infantil, Desenhos",
+    "logo": "https://reidosembeds.online/img/tvkidmais.png",
+    "embedUrl": "https://streambetter.lol/canal/tv-kidmais"
+  },
+  {
+    "id": "tv-cultura",
+    "name": "TV Cultura",
+    "category": "Canais Abertos, Infantil",
+    "logo": "https://reidosembeds.online/img/tvcultura.png",
+    "embedUrl": "https://streambetter.lol/canal/tv-cultura"
+  },
+  {
+    "id": "tv-camara",
+    "name": "TV Câmara",
+    "category": "Canais Abertos",
+    "logo": "https://reidosembeds.online/img/tvcamara.png",
+    "embedUrl": "https://streambetter.lol/canal/tv-camara"
+  },
+  {
+    "id": "tv-brasil",
+    "name": "Tv Brasil",
+    "category": "Canais Abertos",
+    "logo": "https://reidosembeds.online/img/tvbrasil.png",
+    "embedUrl": "https://streambetter.lol/canal/tv-brasil"
+  },
+  {
+    "id": "tv-aparecida",
+    "name": "TV Aparecida",
+    "category": "Canais Abertos",
+    "logo": "https://reidosembeds.online/img/tvaparecida.png",
+    "embedUrl": "https://streambetter.lol/canal/tv-aparecida"
+  },
+  {
+    "id": "travel-box",
+    "name": "Travel Box",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/travelbox.png",
+    "embedUrl": "https://streambetter.lol/canal/travel-box"
+  },
+  {
+    "id": "toon-goggles",
+    "name": "Toon Goggles",
+    "category": "Infantil, Desenhos",
+    "logo": "https://reidosembeds.online/img/toon-goggles.png",
+    "embedUrl": "https://streambetter.lol/canal/toon-goggles"
+  },
+  {
+    "id": "tooncast",
+    "name": "Tooncast",
+    "category": "Infantil, Desenhos",
+    "logo": "https://reidosembeds.online/img/tooncast.png",
+    "embedUrl": "https://streambetter.lol/canal/tooncast"
+  },
+  {
+    "id": "tnt-series",
+    "name": "TNT Series",
+    "category": "Séries",
+    "logo": "https://reidosembeds.online/img/tntseries.png",
+    "embedUrl": "https://streambetter.lol/canal/tnt-series"
+  },
+  {
+    "id": "tnt-novelas",
+    "name": "TNT Novelas",
+    "category": "Variedades, Séries",
+    "logo": "https://reidosembeds.online/img/tntnovelas.png",
+    "embedUrl": "https://streambetter.lol/canal/tnt-novelas"
+  },
+  {
+    "id": "tnt",
+    "name": "TNT",
+    "category": "Variedades, Séries",
+    "logo": "https://reidosembeds.online/img/tnt.png",
+    "embedUrl": "https://streambetter.lol/canal/tnt"
+  },
+  {
     "id": "tlc",
-    "category": "Variedades",
     "name": "TLC",
-    "logo": "https://img.faz-o-eli.online/tlc.prev.png"
+    "category": "Variedades, Reality",
+    "logo": "https://reidosembeds.online/img/tlc.png",
+    "embedUrl": "https://streambetter.lol/canal/tlc"
+  },
+  {
+    "id": "telecine-touch",
+    "name": "Telecine Touch",
+    "category": "Filmes",
+    "logo": "https://reidosembeds.online/img/telecinetouch.png",
+    "embedUrl": "https://streambetter.lol/canal/telecine-touch"
+  },
+  {
+    "id": "telecine-premium",
+    "name": "Telecine Premium",
+    "category": "Filmes",
+    "logo": "https://reidosembeds.online/img/telecinepremium.png",
+    "embedUrl": "https://streambetter.lol/canal/telecine-premium"
+  },
+  {
+    "id": "telecine-pipoca",
+    "name": "Telecine Pipoca",
+    "category": "Filmes",
+    "logo": "https://reidosembeds.online/img/telecinepipoca.png",
+    "embedUrl": "https://streambetter.lol/canal/telecine-pipoca"
+  },
+  {
+    "id": "telecine-fun",
+    "name": "Telecine Fun",
+    "category": "Filmes",
+    "logo": "https://reidosembeds.online/img/telecinefun.png",
+    "embedUrl": "https://streambetter.lol/canal/telecine-fun"
+  },
+  {
+    "id": "telecine-cult",
+    "name": "Telecine Cult",
+    "category": "Filmes",
+    "logo": "https://reidosembeds.online/img/telecinecult.png",
+    "embedUrl": "https://streambetter.lol/canal/telecine-cult"
+  },
+  {
+    "id": "telecine-action",
+    "name": "Telecine Action",
+    "category": "Filmes",
+    "logo": "https://reidosembeds.online/img/telecineaction.png",
+    "embedUrl": "https://streambetter.lol/canal/telecine-action"
+  },
+  {
+    "id": "tcm",
+    "name": "TCM",
+    "category": "Séries, Variedades",
+    "logo": "https://reidosembeds.online/img/tcm.png",
+    "embedUrl": "https://streambetter.lol/canal/tcm"
+  },
+  {
+    "id": "studio-universal",
+    "name": "Studio Universal",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/studiouniversal.png",
+    "embedUrl": "https://streambetter.lol/canal/studio-universal"
+  },
+  {
+    "id": "sportynet",
+    "name": "SportyNet",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/sportynet.png",
+    "embedUrl": "https://streambetter.lol/canal/sportynet"
+  },
+  {
+    "id": "sportv-3",
+    "name": "SporTV 3",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/sportv.png",
+    "embedUrl": "https://streambetter.lol/canal/sportv-3"
+  },
+  {
+    "id": "sportv-2",
+    "name": "SporTV 2",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/sportv.png",
+    "embedUrl": "https://streambetter.lol/canal/sportv-2"
+  },
+  {
+    "id": "sportv",
+    "name": "SporTV",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/sportv.png",
+    "embedUrl": "https://streambetter.lol/canal/sportv"
+  },
+  {
+    "id": "space",
+    "name": "Space",
+    "category": "Séries, Variedades",
+    "logo": "https://reidosembeds.online/img/space.png",
+    "embedUrl": "https://streambetter.lol/canal/space"
+  },
+  {
+    "id": "sony-one",
+    "name": "Sony One",
+    "category": "Filmes, Séries",
+    "logo": "https://reidosembeds.online/img/sonyone.png",
+    "embedUrl": "https://streambetter.lol/canal/sony-one"
+  },
+  {
+    "id": "sony-movies",
+    "name": "Sony Movies",
+    "category": "Filmes",
+    "logo": "https://reidosembeds.online/img/sonymovies.png",
+    "embedUrl": "https://streambetter.lol/canal/sony-movies"
+  },
+  {
+    "id": "sony",
+    "name": "Sony",
+    "category": "Variedades, Séries",
+    "logo": "https://reidosembeds.online/img/sony.png",
+    "embedUrl": "https://streambetter.lol/canal/sony"
+  },
+  {
+    "id": "sbt-novelas",
+    "name": "SBT Novelas",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/sbtnovelas.png",
+    "embedUrl": "https://streambetter.lol/canal/sbt-novelas"
+  },
+  {
+    "id": "sbt-news",
+    "name": "SBT News",
+    "category": "Notícias",
+    "logo": "https://reidosembeds.online/img/sbtnews.png",
+    "embedUrl": "https://streambetter.lol/canal/sbt-news"
+  },
+  {
+    "id": "sbt-kids",
+    "name": "SBT Kids",
+    "category": "Infantil, Desenhos",
+    "logo": "https://reidosembeds.online/img/sbtkids.png",
+    "embedUrl": "https://streambetter.lol/canal/sbt-kids"
+  },
+  {
+    "id": "sbt",
+    "name": "SBT",
+    "category": "Canais Abertos",
+    "logo": "https://reidosembeds.online/img/sbt.png",
+    "embedUrl": "https://streambetter.lol/canal/sbt"
+  },
+  {
+    "id": "redetv",
+    "name": "RedeTV",
+    "category": "Canais Abertos",
+    "logo": "https://reidosembeds.online/img/redetv.png",
+    "embedUrl": "https://streambetter.lol/canal/redetv"
+  },
+  {
+    "id": "rede-gospel",
+    "name": "Rede Gospel",
+    "category": "Canais Abertos",
+    "logo": "https://reidosembeds.online/img/redegospel.png",
+    "embedUrl": "https://streambetter.lol/canal/rede-gospel"
+  },
+  {
+    "id": "record-sp",
+    "name": "Record SP",
+    "category": "Notícias",
+    "logo": "https://reidosembeds.online/img/recordsp.png",
+    "embedUrl": "https://streambetter.lol/canal/record-sp"
+  },
+  {
+    "id": "record-news",
+    "name": "Record News",
+    "category": "Notícias",
+    "logo": "https://reidosembeds.online/img/recordnews.png",
+    "embedUrl": "https://streambetter.lol/canal/record-news"
+  },
+  {
+    "id": "premiere",
+    "name": "Premiere",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/premiere.png",
+    "embedUrl": "https://streambetter.lol/canal/premiere"
+  },
+  {
+    "id": "paramount-4",
+    "name": "Paramount+ 4",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/paramount.png",
+    "embedUrl": "https://streambetter.lol/canal/paramount-4"
+  },
+  {
+    "id": "paramount-3",
+    "name": "Paramount+ 3",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/paramount.png",
+    "embedUrl": "https://streambetter.lol/canal/paramount-3"
+  },
+  {
+    "id": "paramount-2",
+    "name": "Paramount+ 2",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/paramount.png",
+    "embedUrl": "https://streambetter.lol/canal/paramount-2"
+  },
+  {
+    "id": "paramount",
+    "name": "Paramount+",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/paramount.png",
+    "embedUrl": "https://streambetter.lol/canal/paramount"
+  },
+  {
+    "id": "n-sports",
+    "name": "N Sports",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/nsports.png",
+    "embedUrl": "https://streambetter.lol/canal/n-sports"
+  },
+  {
+    "id": "nba-league-pass",
+    "name": "NBA League Pass",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/nbaleaguepass.png",
+    "embedUrl": "https://streambetter.lol/canal/nba-league-pass"
+  },
+  {
+    "id": "music-box",
+    "name": "Music Box",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/musicbox.png",
+    "embedUrl": "https://streambetter.lol/canal/music-box"
+  },
+  {
+    "id": "multishow",
+    "name": "Multishow",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/multishow.png",
+    "embedUrl": "https://streambetter.lol/canal/multishow"
+  },
+  {
+    "id": "mtv",
+    "name": "MTV",
+    "category": "Variedades, Reality",
+    "logo": "https://reidosembeds.online/img/mtv.png",
+    "embedUrl": "https://streambetter.lol/canal/mtv"
+  },
+  {
+    "id": "megapix",
+    "name": "Megapix",
+    "category": "Filmes",
+    "logo": "https://reidosembeds.online/img/megapix.png",
+    "embedUrl": "https://streambetter.lol/canal/megapix"
+  },
+  {
+    "id": "jovem-pan-news",
+    "name": "Jovem Pan News",
+    "category": "Notícias",
+    "logo": "https://reidosembeds.online/img/jovempannews.png",
+    "embedUrl": "https://streambetter.lol/canal/jovem-pan-news"
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "category": "Variedades, Documentários",
+    "logo": "https://reidosembeds.online/img/history.png",
+    "embedUrl": "https://streambetter.lol/canal/history"
+  },
+  {
+    "id": "hbo-xtreme",
+    "name": "HBO Xtreme",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/hboxtreme.png",
+    "embedUrl": "https://streambetter.lol/canal/hbo-xtreme"
+  },
+  {
+    "id": "hbo-signature",
+    "name": "HBO Signature",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/hbosignature.png",
+    "embedUrl": "https://streambetter.lol/canal/hbo-signature"
+  },
+  {
+    "id": "hbo-pop",
+    "name": "HBO Pop",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/hbopop.png",
+    "embedUrl": "https://streambetter.lol/canal/hbo-pop"
+  },
+  {
+    "id": "hbo-plus",
+    "name": "HBO Plus",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/hboplus.png",
+    "embedUrl": "https://streambetter.lol/canal/hbo-plus"
+  },
+  {
+    "id": "hbo-mundi",
+    "name": "HBO Mundi",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/hbomundi.png",
+    "embedUrl": "https://streambetter.lol/canal/hbo-mundi"
+  },
+  {
+    "id": "hbo-family",
+    "name": "HBO Family",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/hbofamily.png",
+    "embedUrl": "https://streambetter.lol/canal/hbo-family"
+  },
+  {
+    "id": "hbo-2",
+    "name": "HBO 2",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/hbo2.png",
+    "embedUrl": "https://streambetter.lol/canal/hbo-2"
+  },
+  {
+    "id": "hbo",
+    "name": "HBO",
+    "category": "Séries, Filmes",
+    "logo": "https://reidosembeds.online/img/hbo.png",
+    "embedUrl": "https://streambetter.lol/canal/hbo"
+  },
+  {
+    "id": "gnt",
+    "name": "GNT",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/gnt.png",
+    "embedUrl": "https://streambetter.lol/canal/gnt"
+  },
+  {
+    "id": "gloobinho",
+    "name": "Gloobinho",
+    "category": "Infantil, Desenhos",
+    "logo": "https://reidosembeds.online/img/gloobinho.png",
+    "embedUrl": "https://streambetter.lol/canal/gloobinho"
+  },
+  {
+    "id": "gloob",
+    "name": "Gloob",
+    "category": "Infantil, Desenhos",
+    "logo": "https://reidosembeds.online/img/gloob.png",
+    "embedUrl": "https://streambetter.lol/canal/gloob"
+  },
+  {
+    "id": "globoplay-novelas",
+    "name": "Globoplay Novelas",
+    "category": "Séries",
+    "logo": "https://reidosembeds.online/img/globoplaynovelas.png",
+    "embedUrl": "https://streambetter.lol/canal/globoplay-novelas"
+  },
+  {
+    "id": "globo-rj",
+    "name": "Globo RJ",
+    "category": "Notícias",
+    "logo": "https://reidosembeds.online/img/globorj.png",
+    "embedUrl": "https://streambetter.lol/canal/globo-rj"
+  },
+  {
+    "id": "globo-news",
+    "name": "Globo News",
+    "category": "Notícias",
+    "logo": "https://reidosembeds.online/img/globonews.png",
+    "embedUrl": "https://streambetter.lol/canal/globo-news"
+  },
+  {
+    "id": "getv",
+    "name": "GeTV",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/getv.png",
+    "embedUrl": "https://streambetter.lol/canal/getv"
+  },
+  {
+    "id": "futura",
+    "name": "Futura",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/futura.png",
+    "embedUrl": "https://streambetter.lol/canal/futura"
+  },
+  {
+    "id": "food-netwoork",
+    "name": "Food Netwoork",
+    "category": "Infantil",
+    "logo": "https://reidosembeds.online/img/foodnetwork.png",
+    "embedUrl": "https://streambetter.lol/canal/food-netwoork"
+  },
+  {
+    "id": "cartoonito",
+    "name": "Cartoonito",
+    "category": "Infantil, Desenhos",
+    "logo": "https://reidosembeds.online/img/cartoonito.png",
+    "embedUrl": "https://streambetter.lol/canal/cartoonito"
+  },
+  {
+    "id": "canal-uol",
+    "name": "Canal UOL",
+    "category": "Notícias",
+    "logo": "https://reidosembeds.online/img/canaluol.png",
+    "embedUrl": "https://streambetter.lol/canal/canal-uol"
+  },
+  {
+    "id": "bloomberg",
+    "name": "Bloomberg",
+    "category": "Notícias",
+    "logo": "https://reidosembeds.online/img/bloomberg.png",
+    "embedUrl": "https://streambetter.lol/canal/bloomberg"
+  },
+  {
+    "id": "bis",
+    "name": "BIS",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/bis.png",
+    "embedUrl": "https://streambetter.lol/canal/bis"
+  },
+  {
+    "id": "band-sports",
+    "name": "Band Sports",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/bandsports.png",
+    "embedUrl": "https://streambetter.lol/canal/band-sports"
+  },
+  {
+    "id": "band-sp",
+    "name": "Band SP",
+    "category": "Canais Abertos",
+    "logo": "https://reidosembeds.online/img/bandsp.png",
+    "embedUrl": "https://streambetter.lol/canal/band-sp"
+  },
+  {
+    "id": "axn",
+    "name": "AXN",
+    "category": "Séries",
+    "logo": "https://reidosembeds.online/img/axn.png",
+    "embedUrl": "https://streambetter.lol/canal/axn"
+  },
+  {
+    "id": "arte",
+    "name": "Arte",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/arte1.png",
+    "embedUrl": "https://streambetter.lol/canal/arte"
+  },
+  {
+    "id": "appletv",
+    "name": "AppleTV",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/appletv.png",
+    "embedUrl": "https://streambetter.lol/canal/appletv"
+  },
+  {
+    "id": "animal-planet",
+    "name": "Animal Planet",
+    "category": "Séries",
+    "logo": "https://reidosembeds.online/img/animalplanet.png",
+    "embedUrl": "https://streambetter.lol/canal/animal-planet"
+  },
+  {
+    "id": "amc",
+    "name": "AMC",
+    "category": "Séries",
+    "logo": "https://reidosembeds.online/img/amc.png",
+    "embedUrl": "https://streambetter.lol/canal/amc"
+  },
+  {
+    "id": "agro-mais",
+    "name": "Agro Mais",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/agromais.png",
+    "embedUrl": "https://streambetter.lol/canal/agro-mais"
+  },
+  {
+    "id": "agro-canal",
+    "name": "Agro Canal",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/agrocanal.png",
+    "embedUrl": "https://streambetter.lol/canal/agro-canal"
+  },
+  {
+    "id": "a-e",
+    "name": "A&E",
+    "category": "Variedades",
+    "logo": "https://reidosembeds.online/img/ae.png",
+    "embedUrl": "https://streambetter.lol/canal/a-e"
+  },
+  {
+    "id": "adult-swim",
+    "name": "Adult Swim",
+    "category": "Desenhos",
+    "logo": "https://reidosembeds.online/img/adultswim.png",
+    "embedUrl": "https://streambetter.lol/canal/adult-swim"
+  },
+  {
+    "id": "fashiontv",
+    "name": "FashionTV",
+    "category": "Variedades",
+    "logo": "https://imgs.search.brave.com/_Qm8-cFPluF_jiXZ6W_rzZRCmQYh2OJD-UWPb-sBUYs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3l0/Yy9BSWRyb19uR2st/STNUV2JSdmFxMXRW/dDlvSVRpd0hYVW9P/Y1NkM1ZScUx5X2Np/cTlwdlhiPXM5MDAt/Yy1rLWMweDAwZmZm/ZmZmLW5vLXJq",
+    "embedUrl": "https://streambetter.lol/canal/fashiontv"
+  },
+  {
+    "id": "espn-6",
+    "name": "ESPN 6",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/espn.png",
+    "embedUrl": "https://streambetter.lol/canal/espn-6"
+  },
+  {
+    "id": "espn-5",
+    "name": "ESPN 5",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/espn.png",
+    "embedUrl": "https://streambetter.lol/canal/espn-5"
+  },
+  {
+    "id": "espn-4",
+    "name": "ESPN 4",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/espn.png",
+    "embedUrl": "https://streambetter.lol/canal/espn-4"
+  },
+  {
+    "id": "espn-3",
+    "name": "ESPN 3",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/espn.png",
+    "embedUrl": "https://streambetter.lol/canal/espn-3"
+  },
+  {
+    "id": "espn-2",
+    "name": "ESPN 2",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/espn.png",
+    "embedUrl": "https://streambetter.lol/canal/espn-2"
+  },
+  {
+    "id": "espn",
+    "name": "ESPN",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/espn.png",
+    "embedUrl": "https://streambetter.lol/canal/espn"
+  },
+  {
+    "id": "dreamworks",
+    "name": "Dreamworks",
+    "category": "Infantil, Desenhos",
+    "logo": "https://reidosembeds.online/img/dreamworks.png",
+    "embedUrl": "https://streambetter.lol/canal/dreamworks"
+  },
+  {
+    "id": "discovery-science",
+    "name": "Discovery Science",
+    "category": "Documentários",
+    "logo": "https://reidosembeds.online/img/discoveryscience.png",
+    "embedUrl": "https://streambetter.lol/canal/discovery-science"
+  },
+  {
+    "id": "discovery-kids",
+    "name": "Discovery Kids",
+    "category": "Infantil, Desenhos",
+    "logo": "https://reidosembeds.online/img/discoverykids.png",
+    "embedUrl": "https://streambetter.lol/canal/discovery-kids"
+  },
+  {
+    "id": "discovery-channel",
+    "name": "Discovery Channel",
+    "category": "Documentários",
+    "logo": "https://reidosembeds.online/img/discoverychannel.png",
+    "embedUrl": "https://streambetter.lol/canal/discovery-channel"
+  },
+  {
+    "id": "cultura-brasil",
+    "name": "Cultura Brasil",
+    "category": "Canais Abertos",
+    "logo": "https://reidosembeds.online/img/cultura-brasil.png",
+    "embedUrl": "https://streambetter.lol/canal/cultura-brasil"
+  },
+  {
+    "id": "combate",
+    "name": "Combate",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/combate.png",
+    "embedUrl": "https://streambetter.lol/canal/combate"
+  },
+  {
+    "id": "cnn-brasil",
+    "name": "CNN Brasil",
+    "category": "Notícias",
+    "logo": "https://reidosembeds.online/img/cnnbrasil.png",
+    "embedUrl": "https://streambetter.lol/canal/cnn-brasil"
+  },
+  {
+    "id": "cinemax",
+    "name": "Cinemax",
+    "category": "Filmes",
+    "logo": "https://reidosembeds.online/img/cinemax.png",
+    "embedUrl": "https://streambetter.lol/canal/cinemax"
+  },
+  {
+    "id": "caze-tv-5",
+    "name": "Cazé TV 5",
+    "category": "Esportes",
+    "logo": "https://reidosembeds.online/img/cazetv.png",
+    "embedUrl": "https://streambetter.lol/canal/caze-tv-5"
+  },
+  {
+    "id": "cartoon-network",
+    "name": "Cartoon Network",
+    "category": "Desenhos",
+    "logo": "https://reidosembeds.online/img/cartoonnetwork.png",
+    "embedUrl": "https://streambetter.lol/canal/cartoon-network"
+  },
+  {
+    "id": "anime-tv",
+    "name": "Anime TV",
+    "category": "Anime",
+    "logo": "https://reidosembeds.online/img/animetv.png",
+    "embedUrl": "https://streambetter.lol/canal/anime-tv"
+  },
+  {
+    "id": "otaku-sign",
+    "name": "Otaku Sign",
+    "category": "Anime",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp",
+    "embedUrl": "https://streambetter.lol/canal/otaku-sign"
   }
 ]
-
