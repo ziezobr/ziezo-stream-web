@@ -1,0 +1,8 @@
+.live-tv .live-filters-minimal{display:flex;gap:20px;flex-wrap:nowrap;overflow-x:auto;margin:20px 0 14px;padding:0;border-bottom:1px solid #ffffff18;scrollbar-width:thin}
+.live-tv .live-filters-minimal button{flex:0 0 auto;min-height:44px;padding:10px 0;border:0;border-bottom:2px solid transparent;border-radius:0;background:transparent;color:#a5aaa2;font:inherit;font-size:13px;white-space:nowrap;cursor:pointer}
+.live-tv .live-filters-minimal button:hover{color:#fff}
+.live-tv .live-filters-minimal button.is-active{color:#d5ff79;border-bottom-color:#d5ff79}
+.live-tv .live-filters-minimal button:focus-visible{outline:2px solid #d5ff79;outline-offset:-2px}
+.tv-mode .live-tv .live-filters-minimal{gap:24px}
+.tv-mode .live-tv .live-filters-minimal button{font-size:18px;min-height:52px;margin:0;padding:12px 4px}
+@media(max-width:650px){.live-tv .live-filters-minimal{gap:18px;margin-right:0}.live-tv .live-filters-minimal button{font-size:12px}}
