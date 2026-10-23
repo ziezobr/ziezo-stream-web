@@ -1,3 +1,4 @@
+import {DiscoveryDeck} from './components/discovery-deck';
 'use client';
 import { useCallback, useEffect, useMemo, useRef, useState, type ChangeEvent, type ReactNode } from 'react';
 import { Search, Play, Plus, Check, ChevronRight, ChevronLeft, X, Bell, Download, Film, Home, Bookmark, UserRound, SlidersHorizontal, ArrowUpRight, Monitor, Pencil, Trash2, LoaderCircle, ArrowLeft, Tv, Sparkles, Heart, Camera } from 'lucide-react';
@@ -253,7 +254,7 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
         </section>
         <div className="home-content">
           <div className="discovery-bar"><span><Sparkles size={15}/> A próxima grande história está aqui.</span><button onClick={()=>go('movies')}>Explore o catálogo <ArrowUpRight size={15}/></button></div>
-          {stateError&&<div className="state-error" role="status">{stateError}<button onClick={()=>void refresh()}>Tentar novamente</button></div>}
+          <DiscoveryDeck onNavigate={go}/>{stateError&&<div className="state-error" role="status">{stateError}<button onClick={()=>void refresh()}>Tentar novamente</button></div>}
           {history.length>0&&<Rail title="Continue de onde parou" subtitle={`SÓ SEU, ${profile?.name||''}`}>{history.map(entry=>{const item=byKey.get(entry.mediaKey)!;return <article className="continue-card" key={entry.mediaKey}><button className="cover-button" onClick={()=>entry.source==='embed'?openEmbed(item,entry.episode):play(item)} aria-label={`Continuar ${item.title}`}><Cover item={item} landscape/><span className="card-play always"><Play fill="currentColor" size={20}/></span>{entry.duration>0&&<span className="progress-track"><i style={{width:`${Math.min(100,entry.position/entry.duration*100)}%`}}/></span>}</button><div className="continue-copy"><h3>{item.title}</h3><span>{entry.source==='embed'?(entry.episode?`Retomar T${entry.episode.season} · E${entry.episode.episode}`:'Abrir novamente'):`${clock(entry.position)} de ${clock(entry.duration)}`}</span><button className="icon-button" aria-label={`Remover ${item.title} do histórico`} onClick={()=>void action({action:'history.remove',mediaKey:entry.mediaKey})}><X size={15}/></button></div></article>;})}</Rail>}
           <Rail title="Uma boa história não espera" subtitle="SEU PRÓXIMO FAVORITO">{available.slice(0,12).map(item=>card(item))}</Rail>
           <CatalogAd blocked={Boolean(player||embed||dialog||selected||profile?.kids)}/>
