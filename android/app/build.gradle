@@ -2,7 +2,7 @@ plugins { id 'com.android.application' }
 android {
  namespace 'com.ziezostream.android'
  compileSdk 36
- defaultConfig { applicationId 'com.ziezostream.android'; minSdk 26; targetSdk 36; versionCode 20302; versionName '2.3.2' }
+ defaultConfig { applicationId 'com.ziezostream.android'; minSdk 26; targetSdk 36; versionCode 20303; versionName '2.3.3' }
  compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
  buildTypes { release { minifyEnabled false } }
 }

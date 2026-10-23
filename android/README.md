@@ -1,4 +1,4 @@
-# ZIEZO STREAM Android 2.1.0
+# ZIEZO STREAM Android 2.3.3
 
 Aplicativo WebView para Android 8 ou superior, celular, tablet e Android TV. Identificador: com.ziezostream.android. Sem bibliotecas nativas específicas de arquitetura.
 
@@ -16,5 +16,13 @@ O APK público usa chave de produção privada mantida fora deste repositório. 
 
 ## Validação e limites
 
-Compilação release, Android Lint e assinatura são verificáveis localmente. Não havia dispositivo Android ou emulador conectado durante a preparação. Não foi feita instalação ou teste físico. Não há permissões de câmera, microfone, localização, arquivos, instalação de pacotes nem ponte JavaScript nativa. Conteúdo HTTP e acesso a arquivos no WebView estão desativados.
+Compilação release, Android Lint e assinatura são verificáveis localmente. Sem dispositivo Android ou emulador conectado, a instalação e retomada precisam de validação física. O app solicita REQUEST_INSTALL_PACKAGES para abrir a confirmação do instalador. A ponte JavaScript expõe somente orientação; a seleção de foto usa o seletor do sistema. Conteúdo HTTP e acesso a arquivos no WebView estão desativados.
+
+## Atualização pelo banner
+
+Na versão 2.3.3, Atualizar agora obtém o APK pelo DownloadManager e abre a confirmação de instalação diretamente. Nenhum gerenciador de arquivos é necessário. O Android pode pedir uma autorização para instalar a partir da ZIEZO e sempre pode exigir confirmação final; não há instalação silenciosa.
+
+O download usa nome único, ID persistido e consulta periódica enquanto o app está visível. Reabrir o app recupera uma atualização concluída. Se a pessoa cancelar o instalador, o botão permite tentar novamente sem baixar de novo. Falha de download libera nova tentativa. Ao mudar a versão instalada, o estado pendente anterior é descartado. O instalador só é aberto com a Activity em primeiro plano.
+
+Publicação deve atualizar em conjunto APK assinado, SHA256SUMS-Android.txt, android-latest.json e cartão Downloads. A assinatura deve permanecer igual à versão instalada. Versões antigas recebem a 2.3.3 usando seu próprio atualizador; aparelhos com fluxo antigo quebrado podem exigir a instalação desta versão uma vez.
 

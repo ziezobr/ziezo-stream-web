@@ -1,7 +1,7 @@
 {
-  "versionCode": 20302,
-  "versionName": "2.3.2",
-  "apkUrl": "https://ziezobr.github.io/ziezo-stream-web/downloads/ZIEZO-STREAM-Android-2.3.2.apk",
-  "browserUrl": "https://github.com/ziezobr/ziezo-stream-web/raw/main/public/downloads/ZIEZO-STREAM-Android-2.3.2.apk",
-  "notes": "Corrige a seleção de fotos no Android e adiciona enquadramento com zoom e posição."
+  "versionCode": 20303,
+  "versionName": "2.3.3",
+  "apkUrl": "https://ziezobr.github.io/ziezo-stream-web/downloads/ZIEZO-STREAM-Android-2.3.3.apk",
+  "browserUrl": "https://github.com/ziezobr/ziezo-stream-web/raw/main/public/downloads/ZIEZO-STREAM-Android-2.3.3.apk",
+  "notes": "Atualização pelo banner, com progresso, retomada e abertura do instalador sem procurar arquivos."
 }
