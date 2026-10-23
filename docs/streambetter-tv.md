@@ -1,5 +1,7 @@
 # TV ao vivo — StreamBetter
 
+Status: integração revertida a pedido do proprietário em 23/10/2026. O provedor ativo voltou a ser EmbedTV, com os 145 canais anteriores e sandbox do iframe restaurado. As informações abaixo são o registro histórico da tentativa de migração.
+
 Integração atualizada em 23/10/2026 usando a API pública `/api/channels`, três páginas de até 100 itens. Foram recebidos 213 registros e mantidos 188 após exclusões solicitadas pelo proprietário e remoção da categoria adulta. Campos ausentes de categoria e logo recebem valores seguros.
 
 Cada canal utiliza a URL HTTPS de `/canal/` fornecida pela API. Busca, categorias, recarga, tela cheia e orientação permanecem no componente LiveTV. A lista é um snapshot; mudanças no provedor exigem nova sincronização.
