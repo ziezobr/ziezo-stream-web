@@ -14,3 +14,9 @@ Revisão em 23/10/2026 a partir de relatos sobre episódios legendados e dificul
 O TMDB é fonte de metadados. A documentação pública do EmbedMovies não contém parâmetro de áudio dublado, lista de servidores de mídia ou API de transmissão para Chromecast/AirPlay. Não foi adicionado um seletor sem efeito, nem parâmetros não documentados. Dublagem ausente depende de fonte que contenha essa faixa. Nenhuma reprodução ou transferência para aparelho físico foi certificada nesta revisão.
 
 Fonte: https://embedmovies.org/#guia-rapido
+
+## Continuação da revisão
+
+- Séries oferecem Trocar episódio ou temporada, retornando aos detalhes do mesmo título e à seleção TMDB.
+- Após 20 segundos sem evento de carregamento, o indicador deixa de cobrir o iframe; o aviso com tentativa de recarregar permanece fora da área de vídeo. Isso não confirma reprodução.
+- Nova auditoria em 23/10/2026: 145 canais e dois contratos responderam sem falhas HTTP ou cabeçalhos explícitos de bloqueio. Reprodução física e áudio continuam não certificados.

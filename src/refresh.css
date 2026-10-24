@@ -146,3 +146,7 @@ button:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible{ou
 .tv-mode .embed-access>small{font-size:16px}
 @media(max-width:650px){.embed-access{padding:0 16px 16px;gap:8px}.embed-access>a{flex:1;min-width:135px;text-align:center}.embed-access>p{font-size:12px}}
 .embed-cinema:fullscreen .embed-access{display:none}
+
+.embed-access>button{min-height:44px;padding:10px 14px;font-size:12px}
+.tv-mode .embed-access>button{font-size:17px}
+@media(max-width:650px){.embed-access>button{width:100%}}
