@@ -246,7 +246,7 @@ export default function Cinema({user,onAuthRequest}:{user:Account|null;onAuthReq
           <div className="hero-gradient"/>
           <div className="hero-copy"><div className="hero-kicker"><span/> ZIEZO EM DESTAQUE <b>ESCOLHA DA SEMANA</b></div>
             {hero.id===693134?<h1 className="dune-title">DUNA<span>PARTE DOIS</span></h1>:<h1 className="hero-title">{hero.title}</h1>}
-            <div className="meta"><span className="match"><Sparkles size={13}/> {hero.rating.toFixed(1)} no TMDB</span><span>{hero.year}</span><span className="age-tag">PT-BR</span><span>{hero.runtime}</span><span className="quality-tag">{hero.type==='tv'?'SÉRIE':'FILME'}</span></div>
+            <div className="meta"><span className="match"><Sparkles size={13}/> {hero.rating.toFixed(1)} no TMDB</span><span>{hero.year}</span><span className="age-tag" title="O idioma do áudio depende da fonte disponível no player">Áudio a confirmar</span><span>{hero.runtime}</span><span className="quality-tag">{hero.type==='tv'?'SÉRIE':'FILME'}</span></div>
             <p className="hero-description">{hero.id===693134?'Entre o amor e o destino de um universo, uma escolha pode mudar tudo. Volte a Arrakis nesta jornada épica.':hero.overview}</p>
             <div className="hero-actions"><button className="primary" onClick={()=>hero.videoUrl?play(hero):openEmbed(hero)}><Play size={19} fill="currentColor"/>{hero.videoUrl?'Assistir agora':'Abrir player'}</button><button className="secondary" onClick={()=>setSelected(hero)}>Mais informações</button><button className="icon-button circle-button" aria-label="Adicionar destaque à Minha Lista" disabled={pending} onClick={()=>void toggleList(hero)}>{saved.has(mediaKey(hero))?<Check/>:<Plus/>}</button></div>
           </div>
