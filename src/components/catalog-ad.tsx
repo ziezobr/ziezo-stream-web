@@ -7,6 +7,8 @@ let requestedThisDocument=false;
 let script:Promise<void>|null=null;
 function loadGoogle(){
  if(script)return script;
+ // The global AdSense tag queues ad requests while its async script loads.
+ if(document.querySelector('script[src^="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"]'))return Promise.resolve();
  script=new Promise<void>((resolve,reject)=>{const tag=document.createElement('script');tag.async=true;tag.crossOrigin='anonymous';tag.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client='+CLIENT;tag.onload=()=>resolve();tag.onerror=()=>reject(Error('Publicidade indisponível.'));document.head.appendChild(tag);});
  return script;
 }

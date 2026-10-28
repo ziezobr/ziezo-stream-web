@@ -36,3 +36,7 @@ A auditoria verificou 145 páginas configuradas de TV e dois contratos de filme/
 - TV retorna ao modo protegido quando o canal muda, para não herdar a permissão de navegação do canal anterior.
 - Indicador sobre o player de TV sai após 20 segundos; aviso e ações de recuperação continuam fora do iframe.
 - Critérios: manifesto aponta para APK existente; nenhuma versão Android literal nesses dois componentes; troca de canal redefine proteção; testes, tipos e build passam. Não altera binário Android nem garante reprodução de terceiros.
+
+## AdSense em 28/10/2026
+
+Código assíncrono da conta ca-pub-9523043610392807 incluído no head. O componente de anúncio reutiliza a tag global para evitar carregar o script duas vezes. Os limites existentes de exibição de blocos permanecem. A inclusão não confirma aprovação ou anúncios automáticos na conta Google.
